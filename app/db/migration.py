@@ -8,8 +8,8 @@ from sqlalchemy.exc import SQLAlchemyError
 from app.db.database import engine, metadata
 
 __data_dir = 'db_data'
-__source_dir = '../../../artwork'
-__destination_dir = 'db_data/artwork'
+__source_dir = '../../../artwork_image'
+__destination_dir = 'db_data/artwork_image'
 
 
 def copy_artwork_dir(source_dir, destination_dir, reverse=False):
@@ -69,6 +69,9 @@ def load_data():
             if data:
                 try:
                     connection.execute(table.insert(), data)
+                    connection.commit()
                     print(f"Data inserted into table {table_name} from {file}")
                 except SQLAlchemyError as e:
                     print(f"Error inserting data into table {table_name}: {e}")
+
+extract_and_save_data()

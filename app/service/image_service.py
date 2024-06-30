@@ -40,6 +40,7 @@ def __process_image(image: UploadFile, scale_factor):
     # Чтение загруженного изображения
     img = Image.open(image.file)
 
+
     # Сжать изображение
     img = __resize_image(img, scale_factor)
 
@@ -84,7 +85,7 @@ def __draw_text_on_image(img, text, font_path, color, text_proportion, margin_pr
 def __save_image_to_bytes(image, output_filename):
     try:
         # Составляем полный путь к файлу для сохранения
-        output_path = os.path.join('../../artwork/', output_filename)
+        output_path = os.path.join('../../artwork_image/', output_filename)
 
         # Создаем временный буфер для сохранения изображения в память
         output_buffer = BytesIO()

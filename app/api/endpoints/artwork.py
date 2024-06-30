@@ -33,12 +33,13 @@ async def get_artwork(artwork_id: int, db: Session = Depends(get_db)):
     return Artwork(
         id=image.id,
         name=image.name,
+        position=image.position,
         descriptions=mapped_descriptions
     )
 
 
 @router.get("/", response_model=List[Artwork])
-async def get_all_artworks(position: ImagePositionEnum = Query(ImagePositionEnum.HORIZONTAL, description="Filter by image position"),
+async def get_all_artworks(position: ImagePositionEnum = Query(None, description="Filter by image position"),
                            db: Session = Depends(get_db)):
     ids = image_crud.get_all_artwork_image_ids(db, position)
 
