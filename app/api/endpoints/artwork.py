@@ -40,8 +40,9 @@ async def get_artwork(artwork_id: int, db: Session = Depends(get_db)):
 
 @router.get("/", response_model=List[Artwork])
 async def get_all_artworks(position: ImagePositionEnum = Query(None, description="Filter by image position"),
+                           category_id: int = Query(None, description="Filter by category id"),
                            db: Session = Depends(get_db)):
-    ids = image_crud.get_all_artwork_image_ids(db, position)
+    ids = image_crud.get_all_artwork_image_ids(db=db, position=position, category_id=category_id)
 
     artwork_schemas = [
         await get_artwork(artwork_id=artwork_id, db=db) for artwork_id in ids

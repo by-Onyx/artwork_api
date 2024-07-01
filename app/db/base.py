@@ -1,4 +1,4 @@
-from app.db.database import Base, engine
+from .database import Base, engine
 from .models.language import Language
 from .models.image import Image
 from .models.category import Category

@@ -8,10 +8,16 @@ from app.service.image_position import ImagePositionEnum
 
 
 class ImageCRUD(CreateReadBase[Image]):
-    def get_all_artwork_image_ids(self, db: Session, position: Optional[ImagePositionEnum]) -> list[int]:
-        if position is None:
-            return [id for id, in db.query(Image.id).order_by(Image.creation_year).all()]
-        return [id for id, in db.query(Image.id).order_by(Image.creation_year).filter(Image.position == position).all()]
+    def get_all_artwork_image_ids(self, db: Session, position: Optional[ImagePositionEnum],
+                                  category_id: Optional[int]) -> list[int]:
+        query = db.query(Image.id).order_by(Image.creation_year)
+
+        if position is not None:
+            query = query.filter(Image.position == position)
+        if category_id is not None:
+            query = query.filter(Image.category_id == category_id)
+
+        return [id for id, in query.all()]
 
 
 image_crud = ImageCRUD(Image)
