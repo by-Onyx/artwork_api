@@ -11,19 +11,26 @@ services:
     volumes:
       - ./../postgres-db:/var/lib/postgresql/data
 
-#  python:
-#    build:
-#      context: .
-#      dockerfile: Dockerfile
-#    restart: on-failure
-#    env_file:
-#      - .env
-#    ports:
-#      - '8000:8000'
-#    links:
-#      - postgres
-#    depends_on:
-#      - postgres
+  python:
+    build:
+      context: ./artwork_api
+      dockerfile: Dockerfile
+    restart: on-failure
+    env_file:
+      - .env
+    ports:
+      - '8000:8000'
+    links:
+      - postgres
+    depends_on:
+      - postgres
 
+  portfolio-page:
+    build:
+      context: ./portfolio-page
+      dockerfile: Dockerfile
+    restart: on-failure
+    ports:
+      - "3000:80"
 volumes:
   postgres-db:
