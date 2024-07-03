@@ -1524,6 +1524,12 @@
         "description": "\u00ab\u041d\u0430\u0443\u0447\u0438 \u043c\u0435\u043d\u044f \u043d\u0435\u0431\u043e \u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e..\u00bb \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 60\u044580 2024"
     },
     {
+        "id": 317,
+        "image_id": 158,
+        "language_id": 2,
+        "description": "\u201cMogao Monastery, Dunhuang\u201d Gansu Province, China. Canvas, oil 60x80 2018"
+    },
+    {
         "id": 256,
         "image_id": 128,
         "language_id": 1,
@@ -1558,5 +1564,1007 @@
         "image_id": 130,
         "language_id": 1,
         "description": "\u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u0444\u0440\u0443\u043a\u0442\u0430\u043c\u0438 \u0438 \u043c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u043c\u0438\u00bb (\u0421\u0435\u0440\u0438\u044f \u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442\u043e\u0432 \u0434\u043b\u044f \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u043f\u0430\u0440\u0430\u0434\u043d\u044b\u0445 \u0437\u0430\u043b\u043e\u0432 \u043e\u0442\u0435\u043b\u044f \u201cFour Seasons\u201d \u0432 \u0433. \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433) \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 86\u0445115 2011"
+    },
+    {
+        "id": 262,
+        "image_id": 131,
+        "language_id": 1,
+        "description": "\u00ab\u041e\u0437\u0435\u0440\u043e \u0441 \u0437\u043e\u043b\u043e\u0442\u044b\u043c\u0438 \u0440\u044b\u0431\u043a\u0430\u043c\u0438\u00bb \u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0413\u0443\u0430\u043d\u0441\u0438, \u041a\u0438\u0442\u0430\u0439. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 60x80 2019"
+    },
+    {
+        "id": 263,
+        "image_id": 131,
+        "language_id": 2,
+        "description": "\u00abLake with golden fish\u00bb Guangxi Province, China. oil, canvas 60x80 2019"
+    },
+    {
+        "id": 264,
+        "image_id": 132,
+        "language_id": 1,
+        "description": "\u00ab\u0428\u0451\u043f\u043e\u0442 \u0434\u0435\u0440\u0435\u0432\u044c\u0435\u0432 \u0438 \u0442\u0438\u0448\u0438\u043d\u0430 \u0440\u0435\u043a\u0438\u00bb. \u0413\u043e\u0440\u043e\u0434 Hezhou, \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0413\u0443\u0430\u043d\u0441\u0438, \u041a\u0438\u0442\u0430\u0439. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 60x80 2019"
+    },
+    {
+        "id": 265,
+        "image_id": 132,
+        "language_id": 2,
+        "description": "\u00abThe whisper of trees and silence of the river.\" Hezhou town, Guangxi Province, China. oil, canvas 60x80 2019"
+    },
+    {
+        "id": 266,
+        "image_id": 133,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u043d\u0435\u0433\u043e\u043f\u0430\u0434\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044560 2015"
+    },
+    {
+        "id": 267,
+        "image_id": 133,
+        "language_id": 2,
+        "description": "\u00abSnowfall\u00bb. Canvas, oil 50x60 2015"
+    },
+    {
+        "id": 268,
+        "image_id": 134,
+        "language_id": 1,
+        "description": "\u00ab\u0417\u0430\u043a\u0430\u0442\u00bb \u0433. \u0421\u0435\u0440\u0433\u0438\u0435\u0432 \u041f\u043e\u0441\u0430\u0434. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 30\u044540 2015"
+    },
+    {
+        "id": 269,
+        "image_id": 134,
+        "language_id": 2,
+        "description": "\u201cSunset\u201d Sergiev Posad town. Canvas, oil 30x40 2015"
+    },
+    {
+        "id": 270,
+        "image_id": 135,
+        "language_id": 1,
+        "description": "\u00ab\u041c\u043e\u0440\u043e\u0437 \u0438 \u0441\u043e\u043b\u043d\u0446\u0435\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044560 2015"
+    },
+    {
+        "id": 271,
+        "image_id": 135,
+        "language_id": 2,
+        "description": "\u201cFrost and Sun\u201d. Canvas, oil 50x60 2015"
+    },
+    {
+        "id": 272,
+        "image_id": 136,
+        "language_id": 1,
+        "description": "\u00ab\u0412\u0435\u0447\u0435\u0440 \u0432 \u0442\u0438\u0448\u0438\u043d\u0435\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044560 2015"
+    },
+    {
+        "id": 273,
+        "image_id": 136,
+        "language_id": 2,
+        "description": "\u00abEvening in silence\u00bb. Canvas, oil 50x60 2015"
+    },
+    {
+        "id": 274,
+        "image_id": 137,
+        "language_id": 1,
+        "description": "\u00ab\u0416\u0430\u0440\u043a\u0438\u0439 \u043f\u043e\u043b\u0434\u0435\u043d\u044c\u00bb \u0433.\u041f\u0435\u0440\u0435\u0441\u043b\u0430\u0432\u043b\u044c \u0417\u0430\u043b\u0435\u0441\u0441\u043a\u0438\u0439. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044560 2015"
+    },
+    {
+        "id": 275,
+        "image_id": 137,
+        "language_id": 2,
+        "description": "\u201cHot Midday\u201d Pereslavl Zalessky town. Canvas, oil 50x60 2015"
+    },
+    {
+        "id": 276,
+        "image_id": 138,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u043e\u043b\u0435\u0442 \u0432 \u0442\u0438\u0448\u0438\u043d\u0435\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 45\u044542 2014"
+    },
+    {
+        "id": 277,
+        "image_id": 138,
+        "language_id": 2,
+        "description": "\u201cFlying in silence\u201d. Canvas, oil 45x42 2014"
+    },
+    {
+        "id": 278,
+        "image_id": 139,
+        "language_id": 1,
+        "description": "\u00ab\u0422\u0451\u043f\u043b\u044b\u0439 \u0432\u0435\u0447\u0435\u0440. \u0410\u0432\u0433\u0443\u0441\u0442\u00bb. \u042d\u0442\u044e\u0434 \u0441 \u043d\u0430\u0442\u0443\u0440\u044b \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 40\u044550 2009"
+    },
+    {
+        "id": 279,
+        "image_id": 139,
+        "language_id": 2,
+        "description": "\u201cA warm evening. August\u201d. Etude on plein air Canvas, oil 40x50 2009"
+    },
+    {
+        "id": 280,
+        "image_id": 140,
+        "language_id": 1,
+        "description": "\u00ab\u041b\u0435\u0442\u043e 2009\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044570 2009"
+    },
+    {
+        "id": 281,
+        "image_id": 140,
+        "language_id": 2,
+        "description": "\u201cSummer 2009\u201d. Canvas, oil 50x70 2009"
+    },
+    {
+        "id": 282,
+        "image_id": 141,
+        "language_id": 1,
+        "description": "\u00ab\u0412\u0435\u0441\u043d\u0430 \u0432 \u0421\u0430\u043b\u044c\u043c\u0435\u043b\u0430\u00bb \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 90x70 2011"
+    },
+    {
+        "id": 283,
+        "image_id": 141,
+        "language_id": 2,
+        "description": "\u201cSpring in Salmela Finland\u201d. Canvas, oil 90x70 2011"
+    },
+    {
+        "id": 284,
+        "image_id": 142,
+        "language_id": 1,
+        "description": "\u00ab\u0412\u0438\u0434 \u0438\u0437 \u043e\u043a\u043d\u0430 \u0434\u043e\u043c\u0430 \u043c\u043e\u0438\u0445 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 60\u044580 2009"
+    },
+    {
+        "id": 285,
+        "image_id": 142,
+        "language_id": 2,
+        "description": "\u201cView from the window of my parents house\u201d. Canvas, oil 60x80 2009"
+    },
+    {
+        "id": 286,
+        "image_id": 143,
+        "language_id": 1,
+        "description": "\u00ab\u0423\u0441\u0430\u0434\u044c\u0431\u0430 \u042f\u0440\u0432\u0438\u043b\u0438\u043d\u043d\u0430\u00bb \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f. Etude on plein air \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 65\u044555 2009"
+    },
+    {
+        "id": 287,
+        "image_id": 143,
+        "language_id": 2,
+        "description": "\u201cJarvilinna Manor\u201d Finland. Etude on plein air Canvas, oil 65x55 2009"
+    },
+    {
+        "id": 288,
+        "image_id": 144,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u043e\u0447\u044c\u00bb \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f. Etude on plein air \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044560 2009"
+    },
+    {
+        "id": 289,
+        "image_id": 144,
+        "language_id": 2,
+        "description": "\u201cNight\u201d Finland. Etude on plein air Canvas, oil 50x60 2009"
+    },
+    {
+        "id": 290,
+        "image_id": 145,
+        "language_id": 1,
+        "description": "\u00ab\u041c\u0430\u043a\u043e\u0432\u043e\u0435 \u043f\u043e\u043b\u0435. \u041a\u0440\u044b\u043c\u00bb. Etude on plein air \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 45\u044560 2005"
+    },
+    {
+        "id": 291,
+        "image_id": 145,
+        "language_id": 2,
+        "description": "\u201cPoppy field. Crimea\". Etude on plein air Canvas, oil 45x60 2005"
+    },
+    {
+        "id": 292,
+        "image_id": 146,
+        "language_id": 1,
+        "description": "\u00ab\u0412\u0435\u0447\u0435\u0440\u043d\u0438\u0439 \u041f\u0441\u043a\u043e\u0432\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 60\u044580 2007"
+    },
+    {
+        "id": 293,
+        "image_id": 146,
+        "language_id": 2,
+        "description": "\u201cEvening Pskov\". Canvas, oil 60x80 2007"
+    },
+    {
+        "id": 294,
+        "image_id": 147,
+        "language_id": 1,
+        "description": "\u00ab\u0422\u0438\u0448\u0438\u043d\u0430 \u0432 \u0434\u0435\u0440\u0435\u0432\u043d\u0435 \u041a\u0438\u0442\u0430\u044f\u00bb. Etude on plein air \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 60\u044580 2012"
+    },
+    {
+        "id": 295,
+        "image_id": 147,
+        "language_id": 2,
+        "description": "\u201cSilence in the village of China\". Etude on plein air Canvas, oil 60x80 2012"
+    },
+    {
+        "id": 296,
+        "image_id": 148,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u0442\u0430\u0440\u0438\u043d\u043d\u044b\u0439 \u0441\u0430\u0434 \u0433\u0440\u0443\u0448\u0438\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 65\u044580 2014"
+    },
+    {
+        "id": 297,
+        "image_id": 148,
+        "language_id": 2,
+        "description": "\u201cThe Old Pear Garden\u201d. Canvas, oil 65x80 2014"
+    },
+    {
+        "id": 298,
+        "image_id": 149,
+        "language_id": 1,
+        "description": "\u00ab\u0423\u0441\u0430\u0434\u044c\u0431\u0430 \u041a\u0430\u0440\u0442\u0430\u043d\u043e\u00bb \u0433. \u0418\u043c\u0430\u0442\u0440\u0430, \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f. \u042d\u0442\u044e\u0434 \u0441 \u043d\u0430\u0442\u0443\u0440\u044b \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 45\u044560 2008"
+    },
+    {
+        "id": 299,
+        "image_id": 149,
+        "language_id": 2,
+        "description": "\u201cKartano place\u201d Imatra, Finland. Etude on plein air Canvas, oil 45x60 2008"
+    },
+    {
+        "id": 300,
+        "image_id": 150,
+        "language_id": 1,
+        "description": "\u00ab\u0420\u043e\u0437\u043e\u0432\u044b\u0439 \u0432\u0435\u0447\u0435\u0440\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044560 2015"
+    },
+    {
+        "id": 301,
+        "image_id": 150,
+        "language_id": 2,
+        "description": "\u201cPink evening\u201d. Canvas, oil 50x60 2015"
+    },
+    {
+        "id": 302,
+        "image_id": 151,
+        "language_id": 1,
+        "description": "\u00ab\u041e\u0441\u0435\u043d\u044c \u0432 \u0433\u043e\u0440\u0430\u0445\u00bb \u041a\u0438\u0442\u0430\u0439. \u042d\u0442\u044e\u0434 \u0441 \u043d\u0430\u0442\u0443\u0440\u044b \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044560 2012"
+    },
+    {
+        "id": 303,
+        "image_id": 151,
+        "language_id": 2,
+        "description": "\u201cAutumn in the mountains\u201d China. Etude on plein air Canvas, oil 50x60 2012"
+    },
+    {
+        "id": 304,
+        "image_id": 152,
+        "language_id": 1,
+        "description": "\u00ab\u0411\u0435\u0440\u0435\u0433 \u041a\u0438\u043b\u0430\u0440\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u0443\u0434\u0430\u00bb. \u042d\u0442\u044e\u0434 \u0441 \u043d\u0430\u0442\u0443\u0440\u044b \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 45\u044565 2008"
+    },
+    {
+        "id": 305,
+        "image_id": 152,
+        "language_id": 2,
+        "description": "\u201cKilarsky pond shore\u201d. Etude on plein air Canvas, oil 45x65 2008"
+    },
+    {
+        "id": 306,
+        "image_id": 153,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u0435\u0440\u0435\u0434 \u0433\u0440\u043e\u0437\u043e\u0439\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 40\u044540 2015"
+    },
+    {
+        "id": 307,
+        "image_id": 153,
+        "language_id": 2,
+        "description": "\u201cBefore the rain\u201d. Canvas, oil 40x40 2015"
+    },
+    {
+        "id": 308,
+        "image_id": 154,
+        "language_id": 1,
+        "description": "\u00ab\u0433.\u041b\u0430\u043d\u044c\u0447\u0436\u043e\u0443.\u041a\u0438\u0442\u0430\u0439\u00bb. Etude on plein air \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044570 2012"
+    },
+    {
+        "id": 309,
+        "image_id": 154,
+        "language_id": 2,
+        "description": "\u201cLanzhou city. China\u201d. Etude on plein air Canvas, oil 50x70 2012"
+    },
+    {
+        "id": 310,
+        "image_id": 155,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0430 \u041d\u0435\u0432\u0435\u00bb \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044570 2013"
+    },
+    {
+        "id": 311,
+        "image_id": 155,
+        "language_id": 2,
+        "description": "\u201cOn Neva river\u201d Saint-Petersburg. Canvas, oil 50x70 2013"
+    },
+    {
+        "id": 312,
+        "image_id": 156,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f An Hui, \u043f\u043e\u0441\u0451\u043b\u043e\u043a Jha Ji\u201d \u041a\u0438\u0442\u0430\u0439. Etude on plein air \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50x70 2012"
+    },
+    {
+        "id": 313,
+        "image_id": 156,
+        "language_id": 2,
+        "description": "\u201cAn Hui Province, Jha Ji Village\u201d China. Etude on plein air Canvas, oil 50x70 2012"
+    },
+    {
+        "id": 314,
+        "image_id": 157,
+        "language_id": 1,
+        "description": "\u00ab\u0425\u0440\u0430\u043c \u041c\u0438\u0445\u0430\u0438\u043b\u0430 \u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u0430\u00bb. \u0421\u0435\u0440\u0433\u0438\u0435\u0432 \u041f\u043e\u0441\u0430\u0434. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50x70 2011"
+    },
+    {
+        "id": 315,
+        "image_id": 157,
+        "language_id": 2,
+        "description": "\u201cTemple of the Archangel Michael.\u201d Sergiev Posad. oil, canvas 50x70 2011"
+    },
+    {
+        "id": 316,
+        "image_id": 158,
+        "language_id": 1,
+        "description": "\u00ab\u041c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u044c \u041c\u043e\u0433\u0430\u043e, \u0433. \u0414\u0443\u043d\u044c\u0445\u0443\u0430\u043d\u00bb \u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0413\u0430\u043d\u044c\u0441\u0443, \u041a\u0438\u0442\u0430\u0439. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 60\u044580 2018"
+    },
+    {
+        "id": 318,
+        "image_id": 159,
+        "language_id": 1,
+        "description": "\u00ab\u041b\u043e\u0434\u043a\u0438 \u043d\u0430 \u0431\u0435\u0440\u0435\u0433\u0443\u00bb. \u041f\u0435\u0440\u0435\u0441\u043b\u0430\u0432\u043b\u044c \u0417\u0430\u043b\u0435\u0441\u0441\u043a\u0438\u0439. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 40x50 2016"
+    },
+    {
+        "id": 319,
+        "image_id": 159,
+        "language_id": 2,
+        "description": "\u201cBoats on the Shore\u201d Pereslavl Zalessky. oil, canvas 40x50 2016"
+    },
+    {
+        "id": 320,
+        "image_id": 160,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u0435\u0449\u0435\u0440\u043d\u044b\u0439 \u043c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u044c \u041c\u043e\u0433\u0430\u043e\u00bb \u0414\u0443\u043d\u044c\u0445\u0443\u0430\u043d, \u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0413\u0430\u043d\u044c\u0441\u0443, \u041a\u0438\u0442\u0430\u0439. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 60\u044580 2018"
+    },
+    {
+        "id": 321,
+        "image_id": 160,
+        "language_id": 2,
+        "description": "\u201cMogao Cave Monastery\u201d Dunhuang, Gansu Province, China. Canvas, oil 60x80 2018"
+    },
+    {
+        "id": 322,
+        "image_id": 161,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u043f\u0440\u044f\u0442\u0430\u043b\u0438\u0441\u044c \u0437\u0430 \u0434\u0435\u0440\u0435\u0432\u044c\u044f\u043c\u0438\u00bb \u0421\u0430\u043b\u044c\u043c\u0435\u043b\u0430, \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50x60 2020"
+    },
+    {
+        "id": 323,
+        "image_id": 161,
+        "language_id": 2,
+        "description": "\u201cHide behind the trees\u201d Salmela, Finland. Canvas, oil 50x60 2020"
+    },
+    {
+        "id": 324,
+        "image_id": 162,
+        "language_id": 1,
+        "description": "\u00ab\u0424\u0435\u0432\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0432\u0435\u0447\u0435\u0440 \u0432 \u0421\u0430\u043b\u044c\u043c\u0435\u043b\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 45\u044560 2020"
+    },
+    {
+        "id": 325,
+        "image_id": 162,
+        "language_id": 2,
+        "description": "\u201cFebruary evening in Salmela\u201d. Canvas, oil 45x60 2020"
+    },
+    {
+        "id": 326,
+        "image_id": 163,
+        "language_id": 1,
+        "description": "\u00ab\u0413\u0440\u043e\u043c, \u043c\u043e\u043b\u043d\u0438\u044f \u0438 \u0441\u043e\u043b\u043d\u0435\u0447\u043d\u044b\u0439 \u0441\u0432\u0435\u0442\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 60x80 2020"
+    },
+    {
+        "id": 327,
+        "image_id": 163,
+        "language_id": 2,
+        "description": "\u201cThunder, lightning and sunshine\u201d. Canvas, oil 60x80 2020"
+    },
+    {
+        "id": 328,
+        "image_id": 164,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u043f\u044f\u0449\u0438\u0435 \u0433\u043e\u0440\u044b. \u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0413\u0443\u0430\u043d\u0441\u0438, \u041a\u0438\u0442\u0430\u0439\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 60x80 2020"
+    },
+    {
+        "id": 329,
+        "image_id": 164,
+        "language_id": 2,
+        "description": "\u201cSleeping Mountains. Guangxi Province, China\u201d. Canvas, oil 60x80 2020"
+    },
+    {
+        "id": 330,
+        "image_id": 165,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u0440\u043e\u043f\u043b\u044b\u0432\u0430\u044f \u043c\u0435\u0436 \u043e\u0431\u043b\u0430\u043a\u043e\u0432\u00bb \u0433. \u0413\u0443\u0439\u043b\u0438\u043d\u044c, \u041a\u0438\u0442\u0430\u0439. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 70\u044580 2016"
+    },
+    {
+        "id": 331,
+        "image_id": 165,
+        "language_id": 2,
+        "description": "\u201cSailing between the clouds\u201d Guilin, China. Canvas, oil 70x80 2016"
+    },
+    {
+        "id": 332,
+        "image_id": 166,
+        "language_id": 1,
+        "description": "\u00ab\u0416\u0438\u0437\u043d\u044c \u0441\u0440\u0435\u0434\u0438 \u043e\u0431\u043b\u0430\u043a\u043e\u0432\u00bb \u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0413\u0443\u0430\u043d\u0441\u0438, \u041a\u0438\u0442\u0430\u0439. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 75\u044590 2016"
+    },
+    {
+        "id": 333,
+        "image_id": 166,
+        "language_id": 2,
+        "description": "\u201cLife among the clouds\u201d Guangxi Province, China. Canvas, oil 75x90 2016"
+    },
+    {
+        "id": 334,
+        "image_id": 167,
+        "language_id": 1,
+        "description": "\u00ab\u0414\u043e\u043c\u0430, \u043e\u043a\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0435 \u0432\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043d\u0438\u043a\u0430\u043c\u0438\u00bb \u042f\u043f\u043e\u043d\u0438\u044f. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50x70 2021"
+    },
+    {
+        "id": 335,
+        "image_id": 167,
+        "language_id": 2,
+        "description": "\u201cLife among the grapes\u201d Japan. Canvas, oil 50x70 2021"
+    },
+    {
+        "id": 336,
+        "image_id": 168,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u0430 \u043b\u043e\u0448\u0430\u0434\u0438 \u0438 \u0433\u0440\u0430\u0431\u043b\u0438 \u0432 \u0441\u0430\u0434\u0443\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 40\u044550 2020"
+    },
+    {
+        "id": 337,
+        "image_id": 168,
+        "language_id": 2,
+        "description": "\u201cSculpture of a horse and rake in a garden\u201d. Canvas, oil 40x50 2020"
+    },
+    {
+        "id": 338,
+        "image_id": 169,
+        "language_id": 1,
+        "description": "\u00ab\u0410\u0432\u0442\u043e\u0440 \u0441 \u043a\u0430\u0440\u0442\u0438\u043d\u043e\u0439\u00bb. 2015"
+    },
+    {
+        "id": 339,
+        "image_id": 169,
+        "language_id": 2,
+        "description": "\u201cAuthor with a painting\u201d. 2015"
+    },
+    {
+        "id": 340,
+        "image_id": 170,
+        "language_id": 1,
+        "description": "\u00ab\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043d\u0430\u044f \u043b\u043e\u0437\u0430\u00bb. \u042f\u043f\u043e\u043d\u0438\u044f. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 2021"
+    },
+    {
+        "id": 341,
+        "image_id": 170,
+        "language_id": 2,
+        "description": "\u201cGrape Vine\u201d. Japan. Canvas, oil 2021"
+    },
+    {
+        "id": 342,
+        "image_id": 171,
+        "language_id": 1,
+        "description": "\u00ab\u041b\u0435\u0442\u043e \u0432 \u0434\u0435\u0440\u0435\u0432\u043d\u0435\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044560 2015"
+    },
+    {
+        "id": 343,
+        "image_id": 171,
+        "language_id": 2,
+        "description": "\u201cSummer in the countryside\u201d. Canvas, oil 50x60 2015"
+    },
+    {
+        "id": 344,
+        "image_id": 172,
+        "language_id": 1,
+        "description": "\u00ab\u0420\u043e\u0437\u043e\u0432\u044b\u0439 \u0432\u0435\u0447\u0435\u0440\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044560 2015"
+    },
+    {
+        "id": 345,
+        "image_id": 172,
+        "language_id": 2,
+        "description": "\u201cPink evening\u201d. Canvas, oil 50x60 2015"
+    },
+    {
+        "id": 346,
+        "image_id": 173,
+        "language_id": 1,
+        "description": "\u00ab\u0420\u0435\u0441\u0442\u0430\u0432\u0440\u0430\u0446\u0438\u044f\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044560 2014"
+    },
+    {
+        "id": 347,
+        "image_id": 173,
+        "language_id": 2,
+        "description": "\u201cRestoration\u201d. oil, canvas 50x60 2014"
+    },
+    {
+        "id": 348,
+        "image_id": 174,
+        "language_id": 1,
+        "description": "\u00ab\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u041a\u0440\u0435\u043c\u043b\u044c\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044560 2014"
+    },
+    {
+        "id": 349,
+        "image_id": 174,
+        "language_id": 2,
+        "description": "\u201cRostov town. The Kremlin of Rostov\u201d. oil, canvas 50x60 2014"
+    },
+    {
+        "id": 350,
+        "image_id": 175,
+        "language_id": 1,
+        "description": "\u00ab\u0422\u0438\u0448\u0438\u043d\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044560 2015"
+    },
+    {
+        "id": 351,
+        "image_id": 175,
+        "language_id": 2,
+        "description": "\u201cSilence\u201d. oil, canvas 50x60 2015"
+    },
+    {
+        "id": 352,
+        "image_id": 176,
+        "language_id": 1,
+        "description": "\u00ab\u0411\u0440\u043e\u0448\u0435\u043d\u043d\u044b\u0439 \u0432 \u043d\u0435\u0431\u043e \u0431\u0443\u043a\u0435\u0442\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 85\u044585 2016"
+    },
+    {
+        "id": 353,
+        "image_id": 176,
+        "language_id": 2,
+        "description": "\u201cThrown into the sky the bouquet of roses\u201d. oil, canvas 85x85 2016"
+    },
+    {
+        "id": 354,
+        "image_id": 177,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0435\u0434\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u044b\u0439 \u0434\u043e\u043c \u0432\u043b\u044e\u0431\u043b\u0451\u043d\u043d\u044b\u0445\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 80\u044590 2016"
+    },
+    {
+        "id": 355,
+        "image_id": 177,
+        "language_id": 2,
+        "description": "\u201cUnfinished house of lovers\u201d. oil, canvas 80x90 2016"
+    },
+    {
+        "id": 356,
+        "image_id": 178,
+        "language_id": 1,
+        "description": "\u00ab\u041c\u043e\u0441\u0442\u044b\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 85\u044590 2016"
+    },
+    {
+        "id": 357,
+        "image_id": 178,
+        "language_id": 2,
+        "description": "\u201cBridges\u201d. oil, canvas 85x90 2016"
+    },
+    {
+        "id": 358,
+        "image_id": 179,
+        "language_id": 1,
+        "description": "\u00ab\u0410\u0442\u043b\u0430\u043d\u0442\u044b\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 115x95 2016"
+    },
+    {
+        "id": 359,
+        "image_id": 179,
+        "language_id": 2,
+        "description": "\u201cAtlanteans\u201d. oil, canvas 115x95 2016"
+    },
+    {
+        "id": 360,
+        "image_id": 180,
+        "language_id": 1,
+        "description": "\u00abO\u0437\u0435\u0440\u043e \u043b\u043e\u0442\u043e\u0441\u043e\u0432\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 180x75 2016"
+    },
+    {
+        "id": 361,
+        "image_id": 180,
+        "language_id": 2,
+        "description": "\u201cLotus lake\u201d. oil, canvas 180x75 2016"
+    },
+    {
+        "id": 362,
+        "image_id": 181,
+        "language_id": 1,
+        "description": "\u00abO\u0437\u0435\u0440\u043e \u043b\u043e\u0442\u043e\u0441\u043e\u0432\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 180x75 2016"
+    },
+    {
+        "id": 363,
+        "image_id": 181,
+        "language_id": 2,
+        "description": "\u201cLotus lake\u201d. oil, canvas 180x75 2016"
+    },
+    {
+        "id": 364,
+        "image_id": 182,
+        "language_id": 1,
+        "description": "\u00ab\u041e\u0434\u0438\u043d\u043e\u0447\u0435\u0441\u0442\u0432\u043e \u0432\u0434\u0432\u043e\u0451\u043c\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 75\u044585 2015"
+    },
+    {
+        "id": 365,
+        "image_id": 182,
+        "language_id": 2,
+        "description": "\u201cLoneliness together\u201d. oil, canvas 75x85 2015"
+    },
+    {
+        "id": 366,
+        "image_id": 183,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u0440\u0430\u0437\u0434\u043d\u0438\u043a \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0421\u0435\u0440\u0433\u0438\u0435\u0432 \u041f\u043e\u0441\u0430\u0434\u00bb. \u0414\u0438\u043f\u043b\u043e\u043c\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 \u0432 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0441\u043a\u043e\u043c \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0435 \u0436\u0438\u0432\u043e\u043f\u0438\u0441\u0438, \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u0443\u0440\u044b \u0438 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b \u0438\u043c. \u0418.\u0415.\u0420\u0435\u043f\u0438\u043d\u0430. \u0424\u0430\u043a\u0443\u043b\u044c\u0442\u0435\u0442 \u043c\u043e\u043d\u0443\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u043e\u0439 \u0436\u0438\u0432\u043e\u043f\u0438\u0441\u0438. \u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0438: \u0410.\u0410.\u041c\u044b\u043b\u044c\u043d\u0438\u043a\u043e\u0432, \u0410.\u041a.\u0411\u044b\u0441\u0442\u0440\u043e\u0432. \u0425\u043e\u043b\u0441\u0442, \u0442\u0435\u043c\u043f\u0435\u0440\u0430 510\u0445220 2010"
+    },
+    {
+        "id": 367,
+        "image_id": 183,
+        "language_id": 2,
+        "description": "\u201cHoliday in Sergiev Posad town\u201d. Diploma work at the St. Petersburg State Academic Institute of Painting, Sculpture and Architecture. I.E. Repin. Faculty of monumental painting. Head by: A.A.Mylnikov, A.K. Bystrov. Tempera, canvas 510x220 2010"
+    },
+    {
+        "id": 368,
+        "image_id": 184,
+        "language_id": 1,
+        "description": "\u0425\u0443\u0434\u043e\u0436\u043d\u0438\u043a \u0438 \u0434\u0438\u043f\u043b\u043e\u043c\u043d\u0430\u044f \u043a\u0430\u0440\u0442\u0438\u043d\u0430"
+    },
+    {
+        "id": 369,
+        "image_id": 184,
+        "language_id": 2,
+        "description": "Artist with diploma painting"
+    },
+    {
+        "id": 370,
+        "image_id": 185,
+        "language_id": 1,
+        "description": "\u00ab\u0422\u0435\u0447\u0435\u043d\u0438\u0435 \u0436\u0438\u0437\u043d\u0438 \u043b\u043e\u0442\u043e\u0441\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 120x60 2018"
+    },
+    {
+        "id": 371,
+        "image_id": 185,
+        "language_id": 2,
+        "description": "\u201cFlowing of life of the lotus\u201d. oil, canvas 120x60 2018"
+    },
+    {
+        "id": 372,
+        "image_id": 186,
+        "language_id": 1,
+        "description": "\u00ab\u0420\u0443\u0431\u0430\u0448\u043a\u0430 \u043e\u0442\u0446\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 95\u044585 2017"
+    },
+    {
+        "id": 373,
+        "image_id": 186,
+        "language_id": 2,
+        "description": "\u201cFather's shirt\u201d. oil, canvas 95x85 2017"
+    },
+    {
+        "id": 374,
+        "image_id": 187,
+        "language_id": 1,
+        "description": "\u00ab\u0412\u0435\u0442\u0432\u044c \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u043e\u0439 \u0441\u043b\u0438\u0432\u044b \u041c\u044d\u0439 \u0425\u0443\u0430 \u0438 \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0439\u0437\u0430\u0436\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 75x80 2018"
+    },
+    {
+        "id": 375,
+        "image_id": 187,
+        "language_id": 2,
+        "description": "\u201cChinese plum May Hua branch and Russian landscape\u201d. oil, canvas 75x80 2018"
+    },
+    {
+        "id": 376,
+        "image_id": 188,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u043e \u0432\u043e\u043b\u043d\u0430\u043c \u043c\u043e\u0435\u0439 \u043f\u0430\u043c\u044f\u0442\u0438\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 115\u044595 2017"
+    },
+    {
+        "id": 377,
+        "image_id": 188,
+        "language_id": 2,
+        "description": "\u201cOn the waves of my memory\u201d. oil, canvas 115x95 2017"
+    },
+    {
+        "id": 378,
+        "image_id": 189,
+        "language_id": 1,
+        "description": "\u00ab\u0410\u0432\u0442\u043e\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 85x75 2017"
+    },
+    {
+        "id": 379,
+        "image_id": 189,
+        "language_id": 2,
+        "description": "\u201cSelf-portrait\u201d. oil, canvas 85x75 2017"
+    },
+    {
+        "id": 380,
+        "image_id": 190,
+        "language_id": 1,
+        "description": "\u00ab\u0417\u0430\u0432\u0442\u0440\u0430\u043a \u0438\u0437 \u043e\u0431\u043b\u0430\u043a\u043e\u0432\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 100x95 2016"
+    },
+    {
+        "id": 381,
+        "image_id": 190,
+        "language_id": 2,
+        "description": "\u201cBreakfast from the clouds\u201c. oil, canvas 100x95 2016"
+    },
+    {
+        "id": 382,
+        "image_id": 191,
+        "language_id": 1,
+        "description": "\u00ab\u0410\u043b\u043b\u0435\u0433\u043e\u0440\u0438\u044f \u043c\u043e\u0435\u0439 \u043f\u0430\u043c\u044f\u0442\u0438\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 110x150 2013"
+    },
+    {
+        "id": 383,
+        "image_id": 191,
+        "language_id": 2,
+        "description": "\u201cAllegory of my memory\u201c. oil, canvas 110x150 2013"
+    },
+    {
+        "id": 384,
+        "image_id": 192,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u043e\u043a\u0440\u043e\u0432\u0438\u0449\u0435 \u043f\u0442\u0438\u0446\u044b\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 100\u044570 2013"
+    },
+    {
+        "id": 385,
+        "image_id": 192,
+        "language_id": 2,
+        "description": "\u201cTreasure of bird\u201c. oil, canvas 100x70 2013"
+    },
+    {
+        "id": 386,
+        "image_id": 193,
+        "language_id": 1,
+        "description": "\u00ab\u0412\u0440\u0435\u043c\u0435\u043d\u0430 \u0433\u043e\u0434\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 110x86 2012"
+    },
+    {
+        "id": 387,
+        "image_id": 193,
+        "language_id": 2,
+        "description": "\u201cSeasons\u201c. oil, canvas 110x86 2012"
+    },
+    {
+        "id": 388,
+        "image_id": 194,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u0442\u0438\u0446\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 100x80 2014"
+    },
+    {
+        "id": 389,
+        "image_id": 194,
+        "language_id": 2,
+        "description": "\u201cBird\u201c. oil, canvas 100x80 2014"
+    },
+    {
+        "id": 390,
+        "image_id": 195,
+        "language_id": 1,
+        "description": "\u00ab\u0416\u0438\u0437\u043d\u044c \u0432 \u0437\u0430\u043c\u043a\u0430\u0445 \u043d\u0430 \u0432\u043e\u0434\u043e\u043f\u0430\u0434\u0435\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 110x100 2015"
+    },
+    {
+        "id": 391,
+        "image_id": 195,
+        "language_id": 2,
+        "description": "\u201cLife in castles on a waterfall\u201c. oil, canvas 110x100 2015"
+    },
+    {
+        "id": 392,
+        "image_id": 196,
+        "language_id": 1,
+        "description": "\u00ab\u0412\u0435\u0441\u043d\u0430 \u0432 \u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 80\u044590 2016"
+    },
+    {
+        "id": 393,
+        "image_id": 196,
+        "language_id": 2,
+        "description": "\u201cSpring in St.Petersburg\u201c. oil, canvas 80x90 2016"
+    },
+    {
+        "id": 394,
+        "image_id": 197,
+        "language_id": 1,
+        "description": "\u00ab\u0410\u0442\u043b\u0430\u043d\u0442\u044b \u0434\u0435\u0440\u0436\u0430\u0442 \u043d\u0435\u0431\u043e \u043d\u0430 \u043a\u0430\u043c\u0435\u043d\u043d\u044b\u0445 \u0440\u0443\u043a\u0430\u0445..\u00bb \u0412\u0430\u0440\u0438\u0430\u043d\u0442 2. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 100x120 2018"
+    },
+    {
+        "id": 395,
+        "image_id": 197,
+        "language_id": 2,
+        "description": "\u201cAtlanteans hold the sky on stone hands..\u201d Second version. oil, canvas 100x120 2018"
+    },
+    {
+        "id": 396,
+        "image_id": 198,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u043a\u0440\u0430\u0441\u043d\u044b\u043c \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u043c \u0448\u043a\u0430\u0444\u043e\u043c \u0438 \u0431\u0443\u043a\u0435\u0442\u043e\u043c \u0440\u043e\u0437\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 110x70 2018"
+    },
+    {
+        "id": 397,
+        "image_id": 198,
+        "language_id": 2,
+        "description": "\u201cStill-life with a red Chinese cupboard and a bouquet of roses\u201d. oil, canvas 110x70 2018"
+    },
+    {
+        "id": 398,
+        "image_id": 199,
+        "language_id": 1,
+        "description": "\u00ab\u041e\u0431\u043b\u0430\u043a\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 80x80 2018"
+    },
+    {
+        "id": 399,
+        "image_id": 199,
+        "language_id": 2,
+        "description": "\u201cClouds\u201d. oil, canvas 80x80 2018"
+    },
+    {
+        "id": 400,
+        "image_id": 200,
+        "language_id": 1,
+        "description": "\u00ab\u041b\u043e\u0448\u0430\u0434\u043a\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 75x85 2014"
+    },
+    {
+        "id": 401,
+        "image_id": 200,
+        "language_id": 2,
+        "description": "\u201cHobbyhorse\u201d. oil, canvas 75x85 2014"
+    },
+    {
+        "id": 402,
+        "image_id": 201,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0435\u043b\u0435\u0442\u043d\u0430\u044f \u043f\u043e\u0433\u043e\u0434\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 75\u044585 2014"
+    },
+    {
+        "id": 403,
+        "image_id": 201,
+        "language_id": 2,
+        "description": "\u201cNon-flying weather\u201d. oil, canvas 75x85 2014"
+    },
+    {
+        "id": 404,
+        "image_id": 202,
+        "language_id": 1,
+        "description": "\u00ab\u041b\u044e\u0431\u0438\u0442\u044c/\u043d\u0435\u043b\u044c\u0437\u044f/\u0440\u0430\u0441\u0441\u0442\u0430\u0442\u044c\u0441\u044f\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 85x85 2020"
+    },
+    {
+        "id": 405,
+        "image_id": 202,
+        "language_id": 2,
+        "description": "\u201cLove / impossible/ break up\u201d. oil, canvas 85x85 2020"
+    },
+    {
+        "id": 406,
+        "image_id": 203,
+        "language_id": 1,
+        "description": "\u00ab\u042f\u0431\u043b\u043e\u0447\u043d\u044b\u0439 \u0412\u0435\u0442\u0435\u0440\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 125x90 2011"
+    },
+    {
+        "id": 407,
+        "image_id": 203,
+        "language_id": 2,
+        "description": "\u201cApple wind\u201d. oil, canvas 125x90 2011"
+    },
+    {
+        "id": 408,
+        "image_id": 204,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u043e\u0440\u0442\u043d\u0438\u0445\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 75x100 2011"
+    },
+    {
+        "id": 409,
+        "image_id": 204,
+        "language_id": 2,
+        "description": "\u201cWoman dressmaker\u201d. oil, canvas 75x100 2011"
+    },
+    {
+        "id": 410,
+        "image_id": 205,
+        "language_id": 1,
+        "description": "\u00ab\u041b\u044e\u0431\u043e\u0432\u044c \u0438 \u043e\u0434\u0438\u043d\u043e\u0447\u0435\u0441\u0442\u0432\u043e \u0432\u0434\u0432\u043e\u0435\u043c\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 70x80 2019"
+    },
+    {
+        "id": 411,
+        "image_id": 205,
+        "language_id": 2,
+        "description": "\u201cLove and Loneliness together\u201d. oil, canvas 70x80 2019"
+    },
+    {
+        "id": 412,
+        "image_id": 206,
+        "language_id": 1,
+        "description": "\u00ab\u041c\u0438\u043c\u043e\u043b\u0451\u0442\u043d\u0430\u044f \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 155x100 2015"
+    },
+    {
+        "id": 413,
+        "image_id": 206,
+        "language_id": 2,
+        "description": "\u201cFleeting meeting\u201d. oil, canvas 155x100 2015"
+    },
+    {
+        "id": 414,
+        "image_id": 207,
+        "language_id": 1,
+        "description": "\u00ab\u0413\u043d\u0435\u0437\u0434\u043e \u0441\u043e\u043b\u043e\u0432\u044c\u044f\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 70x90 2013"
+    },
+    {
+        "id": 415,
+        "image_id": 207,
+        "language_id": 2,
+        "description": "\u201cNightingale\u2019s nest\u201d. oil, canvas 70x90 2013"
+    },
+    {
+        "id": 416,
+        "image_id": 208,
+        "language_id": 1,
+        "description": "\u00ab\u0417\u0430\u043f\u0430\u0445 \u0432\u0435\u0441\u043d\u044b\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 65x75 2020"
+    },
+    {
+        "id": 417,
+        "image_id": 208,
+        "language_id": 2,
+        "description": "\u201cFlavor of Spring\u201d. oil, canvas 65x75 2020"
+    },
+    {
+        "id": 418,
+        "image_id": 209,
+        "language_id": 1,
+        "description": "\u00ab\u041a\u0430\u0440\u0442\u0438\u043d\u0430 \u041f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u0438\u0435 \u0433\u043e\u0440\u043e\u0434\u0443 \u0421\u0435\u0432\u0435\u0440\u0441\u043a\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 180x120 2013"
+    },
+    {
+        "id": 419,
+        "image_id": 209,
+        "language_id": 2,
+        "description": "\u201cDedication to Seversk town\u201d. oil, canvas 180x120 2013"
+    },
+    {
+        "id": 420,
+        "image_id": 210,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u0438\u0435 \u043c\u043e\u0438\u043c \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u044f\u043c\u00bb. \u041c\u043e\u0435\u043c\u0443 \u043e\u0442\u0446\u0443 1956-2010 \u043f\u043e\u0441\u0432\u044f\u0449\u0430\u0435\u0442\u0441\u044f. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 180\u0445150 2010"
+    },
+    {
+        "id": 421,
+        "image_id": 210,
+        "language_id": 2,
+        "description": "\u201cDedication to my parents\u201d. Dedicated to my father 1956-2010. oil, canvas 180x150 2010"
+    },
+    {
+        "id": 422,
+        "image_id": 211,
+        "language_id": 1,
+        "description": "\u00ab\u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435 \u043b\u044e\u0431\u0432\u0438\u00bb \u0412\u0430\u0440\u0438\u0430\u043d\u0442 2. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 100x120 2016"
+    },
+    {
+        "id": 423,
+        "image_id": 211,
+        "language_id": 2,
+        "description": "\u201cExpectation of love\u201d Second version. oil, canvas 100x120 2016"
+    },
+    {
+        "id": 424,
+        "image_id": 212,
+        "language_id": 1,
+        "description": "\u0410\u0432\u0442\u043e\u0440 \u0441 \u043a\u0430\u0440\u0442\u0438\u043d\u043e\u0439 \u00ab\u041f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u0438\u0435 \u043c\u043e\u0438\u043c \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u044f\u043c\u00bb. \u041c\u043e\u0435\u043c\u0443 \u043e\u0442\u0446\u0443 1956-2010 \u043f\u043e\u0441\u0432\u044f\u0449\u0430\u0435\u0442\u0441\u044f. 2010"
+    },
+    {
+        "id": 425,
+        "image_id": 212,
+        "language_id": 2,
+        "description": "Author with a painting \u201cDedication to my parents\u201d. Dedicated to my father 1956-2010. 2010"
+    },
+    {
+        "id": 426,
+        "image_id": 213,
+        "language_id": 1,
+        "description": "\u0410\u0432\u0442\u043e\u0440 \u0437\u0430 \u0440\u0430\u0431\u043e\u0442\u043e\u0439 \u00ab\u041a\u0430\u0440\u0442\u0438\u043d\u0430 \u041f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u0438\u0435 \u0433\u043e\u0440\u043e\u0434\u0443 \u0421\u0435\u0432\u0435\u0440\u0441\u043a\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 180x120 2013"
+    },
+    {
+        "id": 427,
+        "image_id": 213,
+        "language_id": 2,
+        "description": "Author at work \u201cDedication to Seversk town\u201d. oil, canvas 180x120 2013"
+    },
+    {
+        "id": 428,
+        "image_id": 214,
+        "language_id": 1,
+        "description": "\u0428\u043f\u0430\u043b\u0435\u0440\u043d\u0430\u044f \u0440\u0430\u0437\u0432\u0435\u0441\u043a\u0430 \u0441\u0435\u0440\u0438\u0438 \u043d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442\u043e\u0432. \u0424\u043e\u0442\u043e \u0432 \u043c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u043e\u0439. 2011"
+    },
+    {
+        "id": 429,
+        "image_id": 214,
+        "language_id": 2,
+        "description": "Hanging arrangement of a series of still lifes. Photo in the workshop. 2011"
     }
 ]
