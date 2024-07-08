@@ -308,13 +308,6 @@
         "name": "IMG_9628.jpg"
     },
     {
-        "id": 45,
-        "category_id": 7,
-        "position": "HORIZONTAL",
-        "creation_year": 2008,
-        "name": "in akademia.JPG"
-    },
-    {
         "id": 46,
         "category_id": 7,
         "position": "SQUARE",
@@ -1495,6 +1488,13 @@
         "category_id": 1,
         "position": "HORIZONTAL",
         "creation_year": 2011,
-        "name": "35.2011\u0432 \u043c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u043e\u0439.jpg"
+        "name": "35.2011.jpg"
+    },
+    {
+        "id": 45,
+        "category_id": 7,
+        "position": "HORIZONTAL",
+        "creation_year": 2008,
+        "name": "in akademia.jpg"
     }
 ]

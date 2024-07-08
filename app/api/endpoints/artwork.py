@@ -49,3 +49,14 @@ async def get_all_artworks(position: ImagePositionEnum = Query(None, description
     ]
 
     return artwork_schemas
+
+
+@router.get("/carousel/", response_model=List[Artwork])
+async def get_carousel(db: Session = Depends(get_db)):
+    ids = image_crud.get_all_carousel_images(db)
+
+    artwork_schemas = [
+        await get_artwork(artwork_id=artwork_id, db=db) for artwork_id in ids
+    ]
+
+    return artwork_schemas
