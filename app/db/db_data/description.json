@@ -1182,6 +1182,12 @@
         "description": "\u00abGirl in black and white suit\u00bb Head by S.Pichahchi , 2 study year in I.Repin Academy oil, canvas 100\u044580 2006"
     },
     {
+        "id": 497,
+        "image_id": 248,
+        "language_id": 2,
+        "description": "\u201cPomegranate\u201d. Paper, pen 10x15 2001"
+    },
+    {
         "id": 198,
         "image_id": 99,
         "language_id": 1,
@@ -2292,6 +2298,12 @@
         "description": "\u201cAllegory of my memory\u201c. oil, canvas 110x150 2013"
     },
     {
+        "id": 495,
+        "image_id": 247,
+        "language_id": 2,
+        "description": "\u201cThe Great Wall of China\u201d. Canvas, oil 75x85 2013"
+    },
+    {
         "id": 384,
         "image_id": 192,
         "language_id": 1,
@@ -2566,5 +2578,1313 @@
         "image_id": 214,
         "language_id": 2,
         "description": "Hanging arrangement of a series of still lifes. Photo in the workshop. 2011"
+    },
+    {
+        "id": 430,
+        "image_id": 215,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u043b\u0430\u043d\u0435\u0442\u0430 \u0433\u043b\u0430\u0437\u0430\u043c\u0438 \u0440\u0435\u0431\u0451\u043d\u043a\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 80x75 2018"
+    },
+    {
+        "id": 431,
+        "image_id": 215,
+        "language_id": 2,
+        "description": "\u201cThe Earth through the eyes of a child\u201d. oil, canvas 80x75 2018"
+    },
+    {
+        "id": 432,
+        "image_id": 216,
+        "language_id": 1,
+        "description": "\u00ab\u041c\u0443\u0437\u044b\u043a\u0430 \u0442\u0438\u0448\u0438\u043d\u044b\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 70x90 2013"
+    },
+    {
+        "id": 433,
+        "image_id": 216,
+        "language_id": 2,
+        "description": "\u201cSilence music\u201d. oil, canvas 70x90 2013"
+    },
+    {
+        "id": 434,
+        "image_id": 217,
+        "language_id": 1,
+        "description": "\u00ab\u041c\u0443\u0437\u044b\u043a\u0430 \u043b\u0435\u0442\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 70x90 2013"
+    },
+    {
+        "id": 435,
+        "image_id": 217,
+        "language_id": 2,
+        "description": "\u201cSummer music\u201d. oil, canvas 70x90 2013"
+    },
+    {
+        "id": 436,
+        "image_id": 218,
+        "language_id": 1,
+        "description": "\u00ab\u041c\u0438\u043c\u043e\u043b\u0451\u0442\u043d\u0430\u044f \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u00bb (\u0412\u0430\u0440\u0438\u0430\u043d\u0442 2). \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 155x100 2015"
+    },
+    {
+        "id": 437,
+        "image_id": 218,
+        "language_id": 2,
+        "description": "\u201cFleeting meeting\u201d Second version. oil, canvas 155x100 2015"
+    },
+    {
+        "id": 438,
+        "image_id": 219,
+        "language_id": 1,
+        "description": "\u00ab\u042f\u0431\u043b\u043e\u0447\u043d\u044b\u0439 \u0433\u043e\u0434\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 40x50 2001"
+    },
+    {
+        "id": 439,
+        "image_id": 219,
+        "language_id": 2,
+        "description": "\u201cApple time\u201d. oil, canvas 40x50 2001"
+    },
+    {
+        "id": 440,
+        "image_id": 220,
+        "language_id": 1,
+        "description": "\u00ab\u0414\u0432\u0430 \u0447\u0430\u0439\u043d\u0438\u043a\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50x50 2002"
+    },
+    {
+        "id": 441,
+        "image_id": 220,
+        "language_id": 2,
+        "description": "\u201cTwo teapots\u201d. oil, canvas 50x50 2002"
+    },
+    {
+        "id": 442,
+        "image_id": 221,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u043f\u043e\u0434\u0441\u0432\u0435\u0447\u043d\u0438\u043a\u0430\u043c\u0438 \u0438 \u0433\u0440\u0443\u0448\u0430\u043c\u0438\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50x80 2001"
+    },
+    {
+        "id": 443,
+        "image_id": 221,
+        "language_id": 2,
+        "description": "\u201cStill life with candlesticks and pears\u201d. oil, canvas 50x80 2001"
+    },
+    {
+        "id": 444,
+        "image_id": 222,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u0446\u0432\u0435\u0442\u0430\u043c\u0438 \u0438 \u043a\u043d\u0438\u0433\u043e\u0439 \u041a\u043b\u043e\u0434\u0430 \u041c\u043e\u043d\u0435\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 60x85 2008"
+    },
+    {
+        "id": 445,
+        "image_id": 222,
+        "language_id": 2,
+        "description": "\u201cStill Life with Flowers and Book of Claude Monet\u201d. oil, canvas 60x85 2008"
+    },
+    {
+        "id": 446,
+        "image_id": 223,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u044f\u0431\u043b\u043e\u043d\u0435\u0439 \u0438 \u0433\u043d\u0435\u0437\u0434\u043e\u043c \u0449\u0435\u0433\u043b\u0430\u00bb. (\u0421\u0435\u0440\u0438\u044f \u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442\u043e\u0432 \u0434\u043b\u044f \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u043f\u0430\u0440\u0430\u0434\u043d\u044b\u0445 \u0437\u0430\u043b\u043e\u0432 \u043e\u0442\u0435\u043b\u044f \u201cFour Seasons\u201d \u0432 \u0433. \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435). \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 86x70 2011"
+    },
+    {
+        "id": 447,
+        "image_id": 223,
+        "language_id": 2,
+        "description": "\u201cStill Life with an Apple tree and a Goldfinch`s nest\u201d. (A series of still lifes for decoration of the parade halls of the hotel \u201cFour Seasons\u201d in St. Petersburg). oil, canvas 86x70 2011"
+    },
+    {
+        "id": 448,
+        "image_id": 224,
+        "language_id": 1,
+        "description": "\u00ab\u0412\u043b\u044e\u0431\u043b\u0451\u043d\u043d\u044b\u0435\u00bb. (\u0421\u0435\u0440\u0438\u044f \u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442\u043e\u0432 \u0434\u043b\u044f \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u043f\u0430\u0440\u0430\u0434\u043d\u044b\u0445 \u0437\u0430\u043b\u043e\u0432 \u043e\u0442\u0435\u043b\u044f \u201cFour Seasons\u201d \u0432 \u0433. \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435). \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 40x60 2011"
+    },
+    {
+        "id": 496,
+        "image_id": 248,
+        "language_id": 1,
+        "description": "\u00ab\u0413\u0440\u0430\u043d\u0430\u0442\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u0448\u0430\u0440\u0438\u043a\u043e\u0432\u0430\u044f \u0440\u0443\u0447\u043a\u0430 10\u044515 2001"
+    },
+    {
+        "id": 449,
+        "image_id": 224,
+        "language_id": 2,
+        "description": "\u201cTwo Lovers\u201d. (A series of still lifes for decoration of the parade halls of the hotel \u201cFour Seasons\u201d in St. Petersburg). oil, canvas 40x60 2011"
+    },
+    {
+        "id": 450,
+        "image_id": 225,
+        "language_id": 1,
+        "description": "\u00abFour Seasons\u00bb. (\u0421\u0435\u0440\u0438\u044f \u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442\u043e\u0432 \u0434\u043b\u044f \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u043f\u0430\u0440\u0430\u0434\u043d\u044b\u0445 \u0437\u0430\u043b\u043e\u0432 \u043e\u0442\u0435\u043b\u044f \u201cFour Seasons\u201d \u0432 \u0433. \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435). \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 30x40 2011"
+    },
+    {
+        "id": 451,
+        "image_id": 225,
+        "language_id": 2,
+        "description": "\u201cFour Seasons\u201d. (A series of still lifes for decoration of the parade halls of the hotel \u201cFour Seasons\u201d in St. Petersburg). oil, canvas 30x40 2011"
+    },
+    {
+        "id": 452,
+        "image_id": 226,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u043b\u0438\u043c\u043e\u043d\u0430\u043c\u0438 \u0438 \u0433\u0440\u0430\u043d\u0430\u0442\u0430\u043c\u0438\u00bb. (\u0421\u0435\u0440\u0438\u044f \u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442\u043e\u0432 \u0434\u043b\u044f \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u043f\u0430\u0440\u0430\u0434\u043d\u044b\u0445 \u0437\u0430\u043b\u043e\u0432 \u043e\u0442\u0435\u043b\u044f \u201cFour Seasons\u201d \u0432 \u0433. \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433). \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 40x50 2011"
+    },
+    {
+        "id": 453,
+        "image_id": 226,
+        "language_id": 2,
+        "description": "\u201cStill Life with Lemons and Pomegranates\u201d. (A series of still lifes for decoration of the parade halls of the hotel \u201cFour Seasons\u201d in St. Petersburg). oil, canvas 40x50 2011"
+    },
+    {
+        "id": 454,
+        "image_id": 227,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u043a\u0443\u0432\u0448\u0438\u043d\u043e\u043c \u0438 \u0440\u043e\u0437\u0430\u043c\u0438\u00bb. (\u0421\u0435\u0440\u0438\u044f \u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442\u043e\u0432 \u0434\u043b\u044f \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u043f\u0430\u0440\u0430\u0434\u043d\u044b\u0445 \u0437\u0430\u043b\u043e\u0432 \u043e\u0442\u0435\u043b\u044f \u201cFour Seasons\u201d \u0432 \u0433. \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433). \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 40x55 2011"
+    },
+    {
+        "id": 455,
+        "image_id": 227,
+        "language_id": 2,
+        "description": "\u201cStill Life with a Jug and Roses\u201d. (A series of still lifes for decoration of the parade halls of the hotel \u201cFour Seasons\u201d in St. Petersburg). oil, canvas 40x55 2011"
+    },
+    {
+        "id": 456,
+        "image_id": 228,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u0433\u043d\u0435\u0437\u0434\u043e\u043c \u0438 \u0434\u043e\u0441\u043f\u0435\u0445\u0430\u043c\u0438\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 94x83 2011"
+    },
+    {
+        "id": 457,
+        "image_id": 228,
+        "language_id": 2,
+        "description": "\u201cStill-life with nest and armor\u201d. oil, canvas 94x83 2011"
+    },
+    {
+        "id": 458,
+        "image_id": 229,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u043a\u043d\u0438\u0433\u0430\u043c\u0438 \u0438 \u043c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u043c\u0438\u00bb. \u0412\u043e\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043f\u0438\u044f \u043a\u0430\u0440\u0442\u0438\u043d\u044b \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a\u0430 \u0423\u0438\u043b\u044c\u044f\u043c \u041c\u0430\u0439\u043a\u043b \u0425\u0430\u0440\u043d\u0435\u0442\u0442 (1877). (\u0421\u0435\u0440\u0438\u044f \u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442\u043e\u0432 \u0434\u043b\u044f \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u043f\u0430\u0440\u0430\u0434\u043d\u044b\u0445 \u0437\u0430\u043b\u043e\u0432 \u043e\u0442\u0435\u043b\u044f \u201cFour Seasons\u201d \u0432 \u0433. \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433). \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 40x65 2011"
+    },
+    {
+        "id": 459,
+        "image_id": 229,
+        "language_id": 2,
+        "description": "\u201cStill life with books and musical instruments\u201d. A free copy of the painting by artist William Michael Harnett (1877). (A series of still lifes for decoration of the parade halls of the hotel \u201cFour Seasons\u201d in St. Petersburg). oil, canvas 40x65 2011"
+    },
+    {
+        "id": 460,
+        "image_id": 230,
+        "language_id": 1,
+        "description": "\u00ab\u0426\u0432\u0435\u0442\u044b \u0438 \u043f\u043b\u043e\u0434\u044b\u00bb. \u0412\u043e\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043f\u0438\u044f \u043a\u0430\u0440\u0442\u0438\u043d\u044b \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a\u0430 \u042f\u043d \u0412\u0430\u043d \u0425\u0435\u0439\u0441\u0443\u043c (1723). (\u0421\u0435\u0440\u0438\u044f \u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442\u043e\u0432 \u0434\u043b\u044f \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u043f\u0430\u0440\u0430\u0434\u043d\u044b\u0445 \u0437\u0430\u043b\u043e\u0432 \u043e\u0442\u0435\u043b\u044f \u201cFour Seasons\u201d \u0432 \u0433. \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433). \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 86x55 2011"
+    },
+    {
+        "id": 461,
+        "image_id": 230,
+        "language_id": 2,
+        "description": "\u201cFlowers and fruits\u201d. A free copy of painting by artist Jan Van Heysum (1723). (A series of still lifes for decoration of the parade halls of the hotel \u201cFour Seasons\u201d in St. Petersburg). oil, canvas 86x55 2011"
+    },
+    {
+        "id": 462,
+        "image_id": 231,
+        "language_id": 1,
+        "description": "\u00ab\u0416\u0435\u043b\u0442\u044b\u0435 \u0442\u044e\u043b\u044c\u043f\u0430\u043d\u044b\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 40x50 2012"
+    },
+    {
+        "id": 463,
+        "image_id": 231,
+        "language_id": 2,
+        "description": "\u201cYellow tulips\u201d. oil, canvas 40x50 2012"
+    },
+    {
+        "id": 464,
+        "image_id": 232,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u043f\u0442\u0438\u0446\u0435\u0439 \u0438 \u0444\u0440\u0443\u043a\u0442\u0430\u043c\u0438\u00bb. \u0412\u043e\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043f\u0438\u044f \u043a\u0430\u0440\u0442\u0438\u043d\u044b \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a\u0430 Christian Van Pol. (\u0421\u0435\u0440\u0438\u044f \u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442\u043e\u0432 \u0434\u043b\u044f \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u043f\u0430\u0440\u0430\u0434\u043d\u044b\u0445 \u0437\u0430\u043b\u043e\u0432 \u043e\u0442\u0435\u043b\u044f \u201cFour Seasons\u201d \u0432 \u0433. \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433). \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 40x60 2011"
+    },
+    {
+        "id": 465,
+        "image_id": 232,
+        "language_id": 2,
+        "description": "\u201cStill Life with a bird and fruits\u201d. Free copy of painting by artist Christian Van Pol. (A series of still lifes for decoration of the parade halls of the hotel \u201cFour Seasons\u201d in St. Petersburg). oil, canvas 40x60 2011"
+    },
+    {
+        "id": 466,
+        "image_id": 233,
+        "language_id": 1,
+        "description": "\u00ab\u0422\u0430\u0442\u0430\u0440\u0441\u043a\u0438\u0439 \u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 100\u044550 2006"
+    },
+    {
+        "id": 467,
+        "image_id": 233,
+        "language_id": 2,
+        "description": "\u201cTatar Still Life\u201d. oil, canvas 100x50 2006"
+    },
+    {
+        "id": 468,
+        "image_id": 234,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u043e\u043d\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 60\u044580 2013"
+    },
+    {
+        "id": 469,
+        "image_id": 234,
+        "language_id": 2,
+        "description": "\u201cDream\u201d. oil, canvas 60x80 2013"
+    },
+    {
+        "id": 470,
+        "image_id": 235,
+        "language_id": 1,
+        "description": "\u00ab\u0412\u0438\u043d\u043e \u0438 \u0444\u0440\u0443\u043a\u0442\u044b\u00bb. \u0412\u043e\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043f\u0438\u044f \u043a\u0430\u0440\u0442\u0438\u043d\u044b \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a\u0430 A.Mignon (1660). (\u0421\u0435\u0440\u0438\u044f \u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442\u043e\u0432 \u0434\u043b\u044f \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u043f\u0430\u0440\u0430\u0434\u043d\u044b\u0445 \u0437\u0430\u043b\u043e\u0432 \u043e\u0442\u0435\u043b\u044f \u201cFour Seasons\u201d \u0432 \u0433. \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433). \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 40\u044555 2011"
+    },
+    {
+        "id": 471,
+        "image_id": 235,
+        "language_id": 2,
+        "description": "\u201cWine and fruits\u201d. Free copy of painting by artist A.Mignon (1660). (A series of still lifes for decoration of the parade halls of the hotel \u201cFour Seasons\u201d in St. Petersburg). oil, canvas 40x55 2011"
+    },
+    {
+        "id": 472,
+        "image_id": 236,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u0433\u0440\u0443\u0448\u0435\u0439 \u0438 \u043a\u0430\u043f\u0438\u0442\u0435\u043b\u044c\u044e\u00bb. (\u0421\u0435\u0440\u0438\u044f \u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442\u043e\u0432 \u0434\u043b\u044f \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u043f\u0430\u0440\u0430\u0434\u043d\u044b\u0445 \u0437\u0430\u043b\u043e\u0432 \u043e\u0442\u0435\u043b\u044f \u201cFour Seasons\u201d \u0432 \u0433. \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433). \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 30\u044540 2011"
+    },
+    {
+        "id": 473,
+        "image_id": 236,
+        "language_id": 2,
+        "description": "\u201cStill life with a pear and a chapiter\u201d. (A series of still lifes for decoration of the parade halls of the hotel \u201cFour Seasons\u201d in St. Petersburg). oil, canvas 30x40 2011"
+    },
+    {
+        "id": 474,
+        "image_id": 237,
+        "language_id": 1,
+        "description": "\u00ab\u0412\u0435\u0447\u0435\u0440\u043d\u0438\u0439 \u041f\u0441\u043a\u043e\u0432\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 60\u044580 2007"
+    },
+    {
+        "id": 475,
+        "image_id": 237,
+        "language_id": 2,
+        "description": "\u201cEvening Pskov\u201d. Canvas, oil 60x80 2007"
+    },
+    {
+        "id": 476,
+        "image_id": 238,
+        "language_id": 1,
+        "description": "\u00ab\u0414\u0432\u0435 \u0431\u0430\u0448\u043d\u0438\u00bb \u0433. \u041f\u0441\u043a\u043e\u0432. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 45\u044538 2007"
+    },
+    {
+        "id": 477,
+        "image_id": 238,
+        "language_id": 2,
+        "description": "\u201cTwo towers\u201d Pskov town. Canvas, oil 45x38 2007"
+    },
+    {
+        "id": 478,
+        "image_id": 239,
+        "language_id": 1,
+        "description": "\u00ab\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u043f\u043e\u043b\u0435\u00bb. \u042d\u0442\u044e\u0434 \u0441 \u043d\u0430\u0442\u0443\u0440\u044b. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 40\u044560 2007"
+    },
+    {
+        "id": 479,
+        "image_id": 239,
+        "language_id": 2,
+        "description": "\u201cGolden Field\u201d. Etude on plein air. Canvas, oil 40x60 2007"
+    },
+    {
+        "id": 480,
+        "image_id": 240,
+        "language_id": 1,
+        "description": "\u00ab\u0414\u043e\u0436\u0434\u044c\u00bb \u0433. \u0418\u043c\u0430\u0442\u0440\u0430, \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f. \u042d\u0442\u044e\u0434 \u0441 \u043d\u0430\u0442\u0443\u0440\u044b. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 55\u044565 2008"
+    },
+    {
+        "id": 481,
+        "image_id": 240,
+        "language_id": 2,
+        "description": "\u201cRain\u201d Imatra, Finland. Etude on plein air. Canvas, oil 55x65 2008"
+    },
+    {
+        "id": 482,
+        "image_id": 241,
+        "language_id": 1,
+        "description": "\u00ab\u0414\u0432\u0430 \u0434\u043e\u043c\u0430, \u043f\u043e\u043b\u0435 \u0438 \u043b\u043e\u0434\u043a\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 50\u044570 2009"
+    },
+    {
+        "id": 483,
+        "image_id": 241,
+        "language_id": 2,
+        "description": "\u201cTwo houses, a field and a boat\u201d. Canvas, oil 50x70 2009"
+    },
+    {
+        "id": 484,
+        "image_id": 242,
+        "language_id": 1,
+        "description": "\u00ab\u0417\u043e\u043b\u043e\u0442\u043e\u0439 \u0432\u0435\u0447\u0435\u0440\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 40\u044555 2009"
+    },
+    {
+        "id": 485,
+        "image_id": 242,
+        "language_id": 2,
+        "description": "\u201cGolden evening\u201d. Canvas, oil 40x55 2009"
+    },
+    {
+        "id": 486,
+        "image_id": 243,
+        "language_id": 1,
+        "description": "\u00ab\u041e\u0437\u0435\u0440\u043e Saimaa\u00bb \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f. \u042d\u0442\u044e\u0434 \u0441 \u043d\u0430\u0442\u0443\u0440\u044b. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 40\u044550 2009"
+    },
+    {
+        "id": 487,
+        "image_id": 243,
+        "language_id": 2,
+        "description": "\u201cLake Saimaa\u201d Finland. Etude on plein air. Canvas, oil 40x50 2009"
+    },
+    {
+        "id": 488,
+        "image_id": 244,
+        "language_id": 1,
+        "description": "\u00ab\u0422\u0440\u043e\u0438\u0446\u0435 \u0421\u0435\u0440\u0433\u0438\u0435\u0432\u0430 \u041b\u0430\u0432\u0440\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 60\u044570 2009"
+    },
+    {
+        "id": 489,
+        "image_id": 244,
+        "language_id": 2,
+        "description": "\u201cHoly Trinity - St.Sergius Lavra\u201d. Canvas, oil 60x70 2009"
+    },
+    {
+        "id": 490,
+        "image_id": 245,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u0430\u0441\u043c\u0443\u0440\u043d\u044b\u0439 \u0434\u0435\u043d\u044c\u00bb \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f. \u042d\u0442\u044e\u0434 \u0441 \u043d\u0430\u0442\u0443\u0440\u044b. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 45\u044555 2009"
+    },
+    {
+        "id": 491,
+        "image_id": 245,
+        "language_id": 2,
+        "description": "\u201cCloudy Day\u201d Finland. Etude on plein air. Canvas, oil 45x55 2009"
+    },
+    {
+        "id": 492,
+        "image_id": 246,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u043e\u043b\u043d\u0435\u0447\u043d\u044b\u0439 \u0432\u0435\u0447\u0435\u0440\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 35\u044545 2010"
+    },
+    {
+        "id": 493,
+        "image_id": 246,
+        "language_id": 2,
+        "description": "\u201cSunny evening\u201d. Canvas, oil 35x45 2010"
+    },
+    {
+        "id": 494,
+        "image_id": 247,
+        "language_id": 1,
+        "description": "\u00ab\u0412\u0435\u043b\u0438\u043a\u0430\u044f \u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0430\u044f \u0421\u0442\u0435\u043d\u0430\u00bb. \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e 75\u044585 2013"
+    },
+    {
+        "id": 498,
+        "image_id": 249,
+        "language_id": 1,
+        "description": "\u00ab\u041b\u0443\u043a\u00bb. \u0417\u0430\u0440\u0438\u0441\u043e\u0432\u043a\u0430. \u0411\u0443\u043c\u0430\u0433\u0430, \u0448\u0430\u0440\u0438\u043a\u043e\u0432\u0430\u044f \u0440\u0443\u0447\u043a\u0430 12\u044518 2001"
+    },
+    {
+        "id": 499,
+        "image_id": 249,
+        "language_id": 2,
+        "description": "\u201cOnion\u201d. Sketch. Paper, pen 12x18 2001"
+    },
+    {
+        "id": 500,
+        "image_id": 250,
+        "language_id": 1,
+        "description": "\u00ab\u041a\u0443\u043a\u0443\u0440\u0443\u0437\u0430\u00bb \u0417\u0430\u0440\u0438\u0441\u043e\u0432\u043a\u0430. \u0411\u0443\u043c\u0430\u0433\u0430, \u0448\u0430\u0440\u0438\u043a\u043e\u0432\u0430\u044f \u0440\u0443\u0447\u043a\u0430 13\u044520 2001"
+    },
+    {
+        "id": 501,
+        "image_id": 250,
+        "language_id": 2,
+        "description": "\u201cCorn\u201d Sketch. Paper, pen 13x20 2001"
+    },
+    {
+        "id": 502,
+        "image_id": 251,
+        "language_id": 1,
+        "description": "\u00ab\u0412\u0435\u043d\u0438\u043a \u0443 \u043f\u0435\u0447\u043a\u0438\u00bb. \u0417\u0430\u0440\u0438\u0441\u043e\u0432\u043a\u0430. \u0411\u0443\u043c\u0430\u0433\u0430, \u0448\u0430\u0440\u0438\u043a\u043e\u0432\u0430\u044f \u0440\u0443\u0447\u043a\u0430 12\u044518 2001"
+    },
+    {
+        "id": 503,
+        "image_id": 251,
+        "language_id": 2,
+        "description": "\u201cBroom near the stove\u201d. Sketch. Paper, pen 12x18 2001"
+    },
+    {
+        "id": 504,
+        "image_id": 252,
+        "language_id": 1,
+        "description": "\u00ab\u0417\u0430\u0440\u0438\u0441\u043e\u0432\u043a\u0430 \u0448\u0432\u0435\u0439\u043d\u044b\u0445 \u043f\u0440\u0438\u043d\u0430\u0434\u043b\u0435\u0436\u043d\u043e\u0441\u0442\u0435\u0439\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u0448\u0430\u0440\u0438\u043a\u043e\u0432\u0430\u044f \u0440\u0443\u0447\u043a\u0430 12\u044518 2001"
+    },
+    {
+        "id": 505,
+        "image_id": 252,
+        "language_id": 2,
+        "description": "\u201cSketch of sewing accessories\u201d. Paper, pen 12x18 2001"
+    },
+    {
+        "id": 506,
+        "image_id": 253,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u0440\u043e\u0434\u0430\u0432\u0449\u0438\u0446\u0430 \u0446\u0432\u0435\u0442\u043e\u0432\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u0442\u0435\u043c\u043f\u0435\u0440\u0430 52\u044538 2002"
+    },
+    {
+        "id": 507,
+        "image_id": 253,
+        "language_id": 2,
+        "description": "\u201cFlower Saleswoman\u201d. Tempera, paper 52x38 2002"
+    },
+    {
+        "id": 508,
+        "image_id": 254,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0430 \u0432\u043e\u043a\u0437\u0430\u043b\u0435\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u0442\u0435\u043c\u043f\u0435\u0440\u0430 40\u044550 2002"
+    },
+    {
+        "id": 509,
+        "image_id": 254,
+        "language_id": 2,
+        "description": "\u201cAt the railway station\u201d. Tempera, paper 40x50 2002"
+    },
+    {
+        "id": 510,
+        "image_id": 255,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u0441\u043e\u0440\u0430\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u0442\u0435\u043c\u043f\u0435\u0440\u0430 40\u044550 2002"
+    },
+    {
+        "id": 511,
+        "image_id": 255,
+        "language_id": 2,
+        "description": "\u201cBickering\u201d. Tempera, paper 40x50 2002"
+    },
+    {
+        "id": 512,
+        "image_id": 256,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u0435\u043c\u044c\u044f\u00bb. \u042d\u0441\u043a\u0438\u0437. \u0411\u0443\u043c\u0430\u0433\u0430, \u0448\u0430\u0440\u0438\u043a\u043e\u0432\u0430\u044f \u0440\u0443\u0447\u043a\u0430 18\u044520 2005"
+    },
+    {
+        "id": 513,
+        "image_id": 256,
+        "language_id": 2,
+        "description": "Sketch on the theme of \"Family\". Paper, pen 18x20 2005"
+    },
+    {
+        "id": 514,
+        "image_id": 257,
+        "language_id": 1,
+        "description": "\u00ab\u0417\u0430\u0440\u0438\u0441\u043e\u0432\u043a\u0430 \u0432 \u0434\u043e\u043c\u0435 \u043c\u043e\u0438\u0445 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u0430\u043a\u0432\u0430\u0440\u0435\u043b\u044c 28.5\u044521.5 2005"
+    },
+    {
+        "id": 515,
+        "image_id": 257,
+        "language_id": 2,
+        "description": "\u201cSketch in the home of my parents\u201d. Paper, watercolor 28.5x21.5 2005"
+    },
+    {
+        "id": 516,
+        "image_id": 258,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u0435\u043c\u044c\u044f\u00bb. \u0413\u0440\u0443\u043d\u0442\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0431\u0443\u043c\u0430\u0433\u0430, \u043c\u0430\u0441\u043b\u043e 45x51 2005"
+    },
+    {
+        "id": 517,
+        "image_id": 258,
+        "language_id": 2,
+        "description": "\u201cFamily\u201d. Paper, oil 45x51 2005"
+    },
+    {
+        "id": 518,
+        "image_id": 259,
+        "language_id": 1,
+        "description": "\u00ab\u0413\u043e\u0440\u0435\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u0443\u0433\u043e\u043b\u044c, \u0440\u0435\u0442\u0443\u0448\u044c 50\u044545 2006"
+    },
+    {
+        "id": 519,
+        "image_id": 259,
+        "language_id": 2,
+        "description": "\u201cSorrow\u201d. Paper, drawing charcoal 50x45 2006"
+    },
+    {
+        "id": 520,
+        "image_id": 260,
+        "language_id": 1,
+        "description": "\u00ab\u0417\u0430\u0440\u0438\u0441\u043e\u0432\u043a\u0430 \u044f\u0431\u043b\u043e\u043a\u0430\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 16\u044514 2006"
+    },
+    {
+        "id": 521,
+        "image_id": 260,
+        "language_id": 2,
+        "description": "\u201cSketch of apple\u201d. Paper, pencil 16x14 2006"
+    },
+    {
+        "id": 522,
+        "image_id": 261,
+        "language_id": 1,
+        "description": "\u00ab\u0417\u0430\u0440\u0438\u0441\u043e\u0432\u043a\u0430 \u043f\u0435\u0440\u043e \u0438 \u043a\u0430\u043c\u0435\u043d\u044c\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 20\u044512 2006"
+    },
+    {
+        "id": 523,
+        "image_id": 261,
+        "language_id": 2,
+        "description": "\u201cSketch of feather and stone\u201d. Paper, pencil 20x12 2006"
+    },
+    {
+        "id": 524,
+        "image_id": 262,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u043e\u0441\u043d\u0430\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u0441\u0435\u0440\u044b\u0439 \u0441\u043e\u0443\u0441 30\u044540 2006"
+    },
+    {
+        "id": 525,
+        "image_id": 262,
+        "language_id": 2,
+        "description": "\u201cPine-tree\u201d. Paper, drawing charcoal 30x40 2006"
+    },
+    {
+        "id": 526,
+        "image_id": 263,
+        "language_id": 1,
+        "description": "\u00ab\u0420\u0435\u0441\u0442\u0430\u0432\u0440\u0430\u0446\u0438\u044f \u0445\u0440\u0430\u043c\u0430\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u043c\u043e\u043a\u0440\u044b\u0439 \u0441\u043e\u0443\u0441 50\u044535 2009"
+    },
+    {
+        "id": 527,
+        "image_id": 263,
+        "language_id": 2,
+        "description": "\u201cRestoration of the temple\u201d. Paper, wet drawing charcoal 50x35 2009"
+    },
+    {
+        "id": 528,
+        "image_id": 264,
+        "language_id": 1,
+        "description": "\u00ab\u0422\u0438\u0448\u0438\u043d\u0430\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 26.5\u044521.5 2011"
+    },
+    {
+        "id": 529,
+        "image_id": 264,
+        "language_id": 2,
+        "description": "\u201cSilence\u201d. Paper, pencil 26.5x21.5 2011"
+    },
+    {
+        "id": 530,
+        "image_id": 265,
+        "language_id": 1,
+        "description": "\u042d\u0441\u043a\u0438\u0437 \u043a \u0440\u0430\u0431\u043e\u0442\u0435 \u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u0433\u043d\u0435\u0437\u0434\u043e\u043c \u0438 \u0434\u043e\u0441\u043f\u0435\u0445\u0430\u043c\u0438\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 22.5\u044520 2011"
+    },
+    {
+        "id": 531,
+        "image_id": 265,
+        "language_id": 2,
+        "description": "Sketch for work \u201cStill life with a nest and armor\u201d. Paper, pencil 22.5x20 2011"
+    },
+    {
+        "id": 532,
+        "image_id": 266,
+        "language_id": 1,
+        "description": "\u042d\u0441\u043a\u0438\u0437 \u043a \u0440\u0430\u0431\u043e\u0442\u0435 \u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u0448\u043b\u0435\u043c\u043e\u043c, \u0434\u0435\u0440\u0435\u0432\u043e\u043c \u0438 \u043e\u0440\u0438\u0433\u0430\u043c\u0438\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 28\u044518.5 2011"
+    },
+    {
+        "id": 533,
+        "image_id": 266,
+        "language_id": 2,
+        "description": "Sketch for work \"Still life with a helmet, a tree and origami\". Paper, pencil 28x18.5 2011"
+    },
+    {
+        "id": 534,
+        "image_id": 267,
+        "language_id": 1,
+        "description": "\u00ab\u0414\u0435\u0440\u0435\u0432\u043e \u0436\u0438\u0437\u043d\u0438\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 42\u044532"
+    },
+    {
+        "id": 535,
+        "image_id": 267,
+        "language_id": 2,
+        "description": "\u201cTree of life\u201d. Paper, pencil 42x32"
+    },
+    {
+        "id": 536,
+        "image_id": 268,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u043e\u0441\u0435\u0434\u0438\u00bb. \u0425\u043e\u043b\u0441\u0442, \u0442\u0435\u043c\u043f\u0435\u0440\u0430 40\u044550 2009"
+    },
+    {
+        "id": 537,
+        "image_id": 268,
+        "language_id": 2,
+        "description": "\u201cNeighbors\u201d. Canvas, tempera 40x50 2009"
+    },
+    {
+        "id": 538,
+        "image_id": 269,
+        "language_id": 1,
+        "description": "\u00ab\u0414\u043e\u043c\u00bb. \u0425\u043e\u043b\u0441\u0442, \u0442\u0435\u043c\u043f\u0435\u0440\u0430 40\u044540 2009"
+    },
+    {
+        "id": 539,
+        "image_id": 269,
+        "language_id": 2,
+        "description": "\u201cHouse\u201d. Paper, tempera 40x40 2009"
+    },
+    {
+        "id": 540,
+        "image_id": 270,
+        "language_id": 1,
+        "description": "\u00ab\u0423\u0432\u044f\u0434\u0430\u044e\u0449\u0430\u044f \u0434\u0435\u0440\u0435\u0432\u043d\u044f\u00bb. \u0425\u043e\u043b\u0441\u0442, \u0442\u0435\u043c\u043f\u0435\u0440\u0430 40\u044550 2009"
+    },
+    {
+        "id": 541,
+        "image_id": 270,
+        "language_id": 2,
+        "description": "\u201cFading Village\u201d. Tempera, canvas 40x50 2009"
+    },
+    {
+        "id": 542,
+        "image_id": 271,
+        "language_id": 1,
+        "description": "\u00ab\u041c\u0430\u0442\u0435\u0440\u0438\u043d\u0441\u0442\u0432\u043e\u00bb. \u042d\u0441\u043a\u0438\u0437 \u043a \u0434\u0438\u043f\u043b\u043e\u043c\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u0435. \u0411\u0443\u043c\u0430\u0433\u0430, \u0441\u0435\u043f\u0438\u044f 40\u044550 2009"
+    },
+    {
+        "id": 543,
+        "image_id": 271,
+        "language_id": 2,
+        "description": "\u201cMaternity\u201d. Sketch for diploma work. Paper, sepia 40x50 2009"
+    },
+    {
+        "id": 544,
+        "image_id": 272,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u043d\u0435\u0436\u043d\u044b\u0439 \u0441\u043b\u043e\u043d\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u0442\u0435\u043c\u043f\u0435\u0440\u0430 40\u044555 2003"
+    },
+    {
+        "id": 545,
+        "image_id": 272,
+        "language_id": 2,
+        "description": "\u201cSnow elephant\u201d. Tempera, paper 40x55 2003"
+    },
+    {
+        "id": 546,
+        "image_id": 273,
+        "language_id": 1,
+        "description": "\u00ab\u0417\u0430\u0440\u0438\u0441\u043e\u0432\u043a\u0430 \u043d\u0430 \u043a\u0443\u0445\u043d\u0435\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 26\u044513 2003"
+    },
+    {
+        "id": 547,
+        "image_id": 273,
+        "language_id": 2,
+        "description": "\u201cSketching in the kitchen\". Paper, pencil 26x13 2003"
+    },
+    {
+        "id": 548,
+        "image_id": 274,
+        "language_id": 1,
+        "description": "\u00ab\u0414\u043e\u043c \u0412.\u0412.\u0420\u043e\u0437\u0430\u043d\u043e\u0432\u0430\u00bb \u0433. \u0421\u0435\u0440\u0433\u0438\u0435\u0432 \u041f\u043e\u0441\u0430\u0434\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u0447\u0451\u0440\u043d\u044b\u0439 \u0441\u043e\u0443\u0441 27\u044535 2003"
+    },
+    {
+        "id": 549,
+        "image_id": 274,
+        "language_id": 2,
+        "description": "\u201cHouse of V.V.Rozanov\u201d, Sergiev Posad. Paper, drawing charcoal 27x35 2003"
+    },
+    {
+        "id": 550,
+        "image_id": 275,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u043e\u0440\u0442\u0440\u0435\u0442 \u0436\u0435\u043d\u0449\u0438\u043d\u044b \u0432 \u043f\u043b\u0430\u0442\u043a\u0435\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u0447\u0451\u0440\u043d\u044b\u0439 \u0441\u043e\u0443\u0441 30\u044540 2004"
+    },
+    {
+        "id": 551,
+        "image_id": 275,
+        "language_id": 2,
+        "description": "\u201cPortrait of a woman in a scarf\". Paper, drawing charcoal 30x40 2004"
+    },
+    {
+        "id": 552,
+        "image_id": 276,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u0435\u043c\u044c\u044f\u00bb. \u042d\u0441\u043a\u0438\u0437. \u0411\u0443\u043c\u0430\u0433\u0430, \u0448\u0430\u0440\u0438\u043a\u043e\u0432\u0430\u044f \u0440\u0443\u0447\u043a\u0430 17\u044517"
+    },
+    {
+        "id": 553,
+        "image_id": 276,
+        "language_id": 2,
+        "description": "Sketch on the theme of \"Family\". Paper, pen 17x17"
+    },
+    {
+        "id": 554,
+        "image_id": 277,
+        "language_id": 1,
+        "description": "\u00ab\u041e\u0434\u0438\u043d\u043e\u0447\u0435\u0441\u0442\u0432\u043e\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u0442\u0435\u043c\u043f\u0435\u0440\u0430 50\u044570 2005"
+    },
+    {
+        "id": 555,
+        "image_id": 277,
+        "language_id": 2,
+        "description": "\u201cLoneliness\u201d. Tempera, paper 50x70 2005"
+    },
+    {
+        "id": 556,
+        "image_id": 278,
+        "language_id": 1,
+        "description": "\u00ab\u0417\u0430\u0440\u0438\u0441\u043e\u0432\u043a\u0430 \u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0441\u043a\u043e\u0433\u043e \u0434\u0432\u043e\u0440\u0430\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u0447\u0451\u0440\u043d\u044b\u0439 \u0441\u043e\u0443\u0441 30\u044515 2005"
+    },
+    {
+        "id": 557,
+        "image_id": 278,
+        "language_id": 2,
+        "description": "\u201cSketch of yard in St.Petersburg\u201d. Drawing charcoal, paper 30x15 2005"
+    },
+    {
+        "id": 558,
+        "image_id": 279,
+        "language_id": 1,
+        "description": "\u00ab\u0417\u0430\u0440\u0438\u0441\u043e\u0432\u043a\u0430 \u043e\u0434\u0435\u0436\u0434\u044b\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u0448\u0430\u0440\u0438\u043a\u043e\u0432\u0430\u044f \u0440\u0443\u0447\u043a\u0430 15\u044527 2003"
+    },
+    {
+        "id": 559,
+        "image_id": 279,
+        "language_id": 2,
+        "description": "\u201cSketch of clothes\". Paper, ballpoint pen 15x27 2003"
+    },
+    {
+        "id": 560,
+        "image_id": 280,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u043e\u0432\u043e\u0433\u043e\u0434\u043d\u044f\u044f \u043d\u043e\u0447\u044c\u00bb. \u0412\u0434\u043e\u0445\u043d\u043e\u0432\u043b\u044f\u044f\u0441\u044c \u0440\u0430\u0431\u043e\u0442\u0430\u043c\u0438 \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a\u0430 \u0410.\u041d. \u0421\u043a\u043b\u044f\u0440\u0435\u043d\u043a\u043e. \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 20\u044525 2015"
+    },
+    {
+        "id": 561,
+        "image_id": 280,
+        "language_id": 2,
+        "description": "\u201cNew year`s night\u201d. Inspired by the works of the artist A.N. Sklyarenko. Paper, pencil 20x25 2015"
+    },
+    {
+        "id": 562,
+        "image_id": 281,
+        "language_id": 1,
+        "description": "\u00ab\u0422\u0451\u043f\u043b\u0430\u044f \u043d\u043e\u0447\u044c\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 20\u044516.5 2011"
+    },
+    {
+        "id": 563,
+        "image_id": 281,
+        "language_id": 2,
+        "description": "\u201cWarm night\u201d. Paper, pencil 20x16.5 2011"
+    },
+    {
+        "id": 564,
+        "image_id": 282,
+        "language_id": 1,
+        "description": "\u00ab\u0422\u0430\u043d\u0435\u0446\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 23\u044523 2011"
+    },
+    {
+        "id": 565,
+        "image_id": 282,
+        "language_id": 2,
+        "description": "\u201cDance\u201d. Paper, pencil 23x23 2011"
+    },
+    {
+        "id": 566,
+        "image_id": 283,
+        "language_id": 1,
+        "description": "\u00ab\u0418\u0437 \u0434\u0435\u0442\u0441\u0442\u0432\u0430\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 25x30 2012"
+    },
+    {
+        "id": 567,
+        "image_id": 283,
+        "language_id": 2,
+        "description": "\u201cMemories from childhood\u201d. Paper, pencil 25x30 2012"
+    },
+    {
+        "id": 568,
+        "image_id": 284,
+        "language_id": 1,
+        "description": "\u00ab\u0412\u0435\u0447\u0435\u0440\u043d\u0435\u0435 \u0432\u0434\u043e\u0445\u043d\u043e\u0432\u0435\u043d\u0438\u0435\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 30.5 x21.5 2012"
+    },
+    {
+        "id": 569,
+        "image_id": 284,
+        "language_id": 2,
+        "description": "\u201cEvening inspiration\u201d. Paper, pencil 30.5 x21.5 2012"
+    },
+    {
+        "id": 570,
+        "image_id": 285,
+        "language_id": 1,
+        "description": "\u00ab\u041a\u0430\u0440\u0438\u0430\u0442\u0438\u0434\u0430\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 16x32 2012"
+    },
+    {
+        "id": 571,
+        "image_id": 285,
+        "language_id": 2,
+        "description": "\u201cCaryatid\u201d. Paper, pencil 16x32 2012"
+    },
+    {
+        "id": 572,
+        "image_id": 286,
+        "language_id": 1,
+        "description": "\u00ab\u0422\u0451\u043f\u043b\u044b\u0439 \u0432\u0435\u0447\u0435\u0440\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 21x30 2012"
+    },
+    {
+        "id": 573,
+        "image_id": 286,
+        "language_id": 2,
+        "description": "\u201cWarm evening\u201d. Paper, pencil 21x30 2012"
+    },
+    {
+        "id": 574,
+        "image_id": 287,
+        "language_id": 1,
+        "description": "\u00ab\u0412\u0435\u0442\u0435\u0440 \u0438\u0437 \u0434\u0435\u0442\u0441\u0442\u0432\u0430\u00bb. \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 17x21 2011"
+    },
+    {
+        "id": 575,
+        "image_id": 287,
+        "language_id": 2,
+        "description": "\u201cWind from childhood\u201d. Paper, pencil 17x21 2011"
+    },
+    {
+        "id": 576,
+        "image_id": 288,
+        "language_id": 1,
+        "description": "2018 - \u041f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u044f \u0432 \u0436\u0443\u0440\u043d\u0430\u043b\u0435 \u00abGuangxi pictorial\u00bb, \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0413\u0443\u0430\u043d\u0441\u0438, \u041a\u0438\u0442\u0430\u0439."
+    },
+    {
+        "id": 577,
+        "image_id": 288,
+        "language_id": 2,
+        "description": "2018 - Publication in the magazine \u00abGuangxi pictorial\u00bb, Guangxi province, China."
+    },
+    {
+        "id": 578,
+        "image_id": 289,
+        "language_id": 1,
+        "description": "2018 - \u041f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u044f \u0432 \u0436\u0443\u0440\u043d\u0430\u043b\u0435 \u00abGuangxi pictorial\u00bb, \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0413\u0443\u0430\u043d\u0441\u0438, \u041a\u0438\u0442\u0430\u0439."
+    },
+    {
+        "id": 579,
+        "image_id": 289,
+        "language_id": 2,
+        "description": "2018 - Publication in the magazine \u00abGuangxi pictorial\u00bb, Guangxi province, China."
+    },
+    {
+        "id": 580,
+        "image_id": 290,
+        "language_id": 1,
+        "description": "2020 - \u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0432\u044b\u0441\u0442\u0430\u0432\u043a\u0430 \u00ab\u0412 \u043f\u043e\u0438\u0441\u043a\u0435 \u043b\u044e\u0431\u0432\u0438 \u0438 \u0432\u0434\u043e\u0445\u043d\u043e\u0432\u0435\u043d\u0438\u044f\u00bb \u0432 \u041c\u0443\u0437\u0435\u0435 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0430 \u0410\u0440\u0442 \u041c\u0443\u0437\u0430."
+    },
+    {
+        "id": 581,
+        "image_id": 290,
+        "language_id": 2,
+        "description": "2020 - Personal exhibition \u201cIn search of love and inspiration\u201d at the Museum of Contemporary Art Art Muse."
+    },
+    {
+        "id": 582,
+        "image_id": 291,
+        "language_id": 1,
+        "description": "2020 - \u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0432\u044b\u0441\u0442\u0430\u0432\u043a\u0430 \u00ab\u0412 \u043f\u043e\u0438\u0441\u043a\u0435 \u043b\u044e\u0431\u0432\u0438 \u0438 \u0432\u0434\u043e\u0445\u043d\u043e\u0432\u0435\u043d\u0438\u044f\u00bb \u0432 \u041c\u0443\u0437\u0435\u0435 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0430 \u0410\u0440\u0442 \u041c\u0443\u0437\u0430."
+    },
+    {
+        "id": 583,
+        "image_id": 291,
+        "language_id": 2,
+        "description": "2020 - Personal exhibition \u201cIn search of love and inspiration\u201d at the Museum of Contemporary Art Art Muse."
+    },
+    {
+        "id": 584,
+        "image_id": 292,
+        "language_id": 1,
+        "description": "2020 - \u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0432\u044b\u0441\u0442\u0430\u0432\u043a\u0430 \u00ab\u0412 \u043f\u043e\u0438\u0441\u043a\u0435 \u043b\u044e\u0431\u0432\u0438 \u0438 \u0432\u0434\u043e\u0445\u043d\u043e\u0432\u0435\u043d\u0438\u044f\u00bb \u0432 \u041c\u0443\u0437\u0435\u0435 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0430 \u0410\u0440\u0442 \u041c\u0443\u0437\u0430."
+    },
+    {
+        "id": 585,
+        "image_id": 292,
+        "language_id": 2,
+        "description": "2020 - Personal exhibition \u201cIn search of love and inspiration\u201d at the Museum of Contemporary Art Art Muse."
+    },
+    {
+        "id": 586,
+        "image_id": 293,
+        "language_id": 1,
+        "description": "2020 - \u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0432\u044b\u0441\u0442\u0430\u0432\u043a\u0430 \u00ab\u0412 \u043f\u043e\u0438\u0441\u043a\u0435 \u043b\u044e\u0431\u0432\u0438 \u0438 \u0432\u0434\u043e\u0445\u043d\u043e\u0432\u0435\u043d\u0438\u044f\u00bb \u0432 \u041c\u0443\u0437\u0435\u0435 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0430 \u0410\u0440\u0442 \u041c\u0443\u0437\u0430."
+    },
+    {
+        "id": 587,
+        "image_id": 293,
+        "language_id": 2,
+        "description": "2020 - Personal exhibition \u201cIn search of love and inspiration\u201d at the Museum of Contemporary Art Art Muse."
+    },
+    {
+        "id": 588,
+        "image_id": 294,
+        "language_id": 1,
+        "description": "2017 - \u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0433\u0430\u043b\u0435\u0440\u0435\u044f \u00ab\u041a\u0430\u0442\u044f\u00bb , \u0433. \u041d\u0430\u043d\u044c\u043d\u0438\u043d , \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0413\u0443\u0430\u043d\u0441\u0438 , \u041a\u0438\u0442\u0430\u0439."
+    },
+    {
+        "id": 589,
+        "image_id": 294,
+        "language_id": 2,
+        "description": "2017 - The personal art gallery \"Katya\" in Nanning, Guangxi Province, China."
+    },
+    {
+        "id": 590,
+        "image_id": 295,
+        "language_id": 1,
+        "description": "2017 - \u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0433\u0430\u043b\u0435\u0440\u0435\u044f \u00ab\u041a\u0430\u0442\u044f\u00bb , \u0433. \u041d\u0430\u043d\u044c\u043d\u0438\u043d , \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0413\u0443\u0430\u043d\u0441\u0438 , \u041a\u0438\u0442\u0430\u0439."
+    },
+    {
+        "id": 591,
+        "image_id": 295,
+        "language_id": 2,
+        "description": "2017 - The personal art gallery \"Katya\" in Nanning, Guangxi Province, China."
+    },
+    {
+        "id": 592,
+        "image_id": 296,
+        "language_id": 1,
+        "description": "2017 - \u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0433\u0430\u043b\u0435\u0440\u0435\u044f \u00ab\u041a\u0430\u0442\u044f\u00bb , \u0433. \u041d\u0430\u043d\u044c\u043d\u0438\u043d , \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0413\u0443\u0430\u043d\u0441\u0438 , \u041a\u0438\u0442\u0430\u0439."
+    },
+    {
+        "id": 593,
+        "image_id": 296,
+        "language_id": 2,
+        "description": "2017 - The personal art gallery \"Katya\" in Nanning, Guangxi Province, China."
+    },
+    {
+        "id": 594,
+        "image_id": 297,
+        "language_id": 1,
+        "description": "2017 - \u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0433\u0430\u043b\u0435\u0440\u0435\u044f \u00ab\u041a\u0430\u0442\u044f\u00bb , \u0433. \u041d\u0430\u043d\u044c\u043d\u0438\u043d , \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0413\u0443\u0430\u043d\u0441\u0438 , \u041a\u0438\u0442\u0430\u0439."
+    },
+    {
+        "id": 595,
+        "image_id": 297,
+        "language_id": 2,
+        "description": "2017 - The personal art gallery \"Katya\" in Nanning, Guangxi Province, China."
+    },
+    {
+        "id": 596,
+        "image_id": 298,
+        "language_id": 1,
+        "description": "2017 - \u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0433\u0430\u043b\u0435\u0440\u0435\u044f \u00ab\u041a\u0430\u0442\u044f\u00bb , \u0433. \u041d\u0430\u043d\u044c\u043d\u0438\u043d , \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0413\u0443\u0430\u043d\u0441\u0438 , \u041a\u0438\u0442\u0430\u0439."
+    },
+    {
+        "id": 597,
+        "image_id": 298,
+        "language_id": 2,
+        "description": "2017 - The personal art gallery \"Katya\" in Nanning, Guangxi Province, China."
+    },
+    {
+        "id": 598,
+        "image_id": 299,
+        "language_id": 1,
+        "description": "2017 - \u0444\u043e\u0442\u043e \u0441 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440\u043e\u043c \u041b\u044e \u041c\u0438\u043d\u0434\u0430 , \u043c\u0438\u043d\u0438\u0441\u0442\u0440\u043e\u043c \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0438 \u0413\u0443\u0430\u043d\u0441\u0438, \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u043a\u043e\u0442\u043e\u0440\u043e\u043c\u0443 \u0431\u044b\u043b\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u0430 \u0433\u0430\u043b\u0435\u0440\u0435\u044f \u00ab\u041a\u0430\u0442\u044f\u00bb."
+    },
+    {
+        "id": 599,
+        "image_id": 299,
+        "language_id": 2,
+        "description": "2017 - photo with Professor Liu Mingda, the Minister of Finance of Guangxi Province. He was the main organizer of the art gallery \u201cKatya\u201d."
+    },
+    {
+        "id": 600,
+        "image_id": 300,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0441 \u0434\u0432\u0443\u043c\u044f \u043c\u043e\u0434\u0435\u043b\u044f\u043c\u0438\u00bb \u0423\u0447\u0435\u0431\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0410.\u041a.\u0411\u044b\u0441\u0442\u0440\u043e\u0432, 5 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c \u0418.\u0420\u0435\u043f\u0438\u043d\u0430 \u0411\u0443\u043c\u0430\u0433\u0430, \u0441\u0435\u043f\u0438\u044f, \u0441\u0430\u043d\u0433\u0438\u043d\u0430 / Paper, sepia, sanguine 2009"
+    },
+    {
+        "id": 601,
+        "image_id": 300,
+        "language_id": 2,
+        "description": "\u00abTwo nude models\u00bb Study work, head by professor A.Bystrov, 5 study year in I.Repin Academy Paper, sepia, sanguine 2009"
+    },
+    {
+        "id": 602,
+        "image_id": 301,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0441 \u0434\u0432\u0443\u043c\u044f \u043e\u0431\u043d\u0430\u0436\u0435\u043d\u043d\u044b\u043c\u0438 \u0438 \u0430\u043d\u0442\u0438\u0447\u043d\u044b\u043c \u0442\u043e\u0440\u0441\u043e\u043c\u00bb \u0423\u0447\u0435\u0431\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0410.\u041a.\u0411\u044b\u0441\u0442\u0440\u043e\u0432, 5 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c \u0418.\u0420\u0435\u043f\u0438\u043d\u0430 \u0411\u0443\u043c\u0430\u0433\u0430, \u0441\u0435\u043f\u0438\u044f, \u0441\u0430\u043d\u0433\u0438\u043d\u0430 / Paper, sepia, sanguine 220\u0445170 2009"
+    },
+    {
+        "id": 603,
+        "image_id": 301,
+        "language_id": 2,
+        "description": "\u00abTwo nude models and antique torso\u00bb Study work, head by professor A.Bystrov, 5 study year in I.Repin Academy Paper, sepia, sanguine 220x170 2009"
+    },
+    {
+        "id": 604,
+        "image_id": 302,
+        "language_id": 1,
+        "description": "\u00ab\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u0441\u0438\u043d\u0435\u0439 \u0431\u0443\u0442\u044b\u043b\u043a\u043e\u0439 \u0438 \u0444\u043e\u043b\u044c\u0433\u043e\u0439\u00bb \u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0421.\u041f\u0438\u0447\u0430\u0445\u0447\u0438, 2 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c. \u0418.\u0415.\u0420\u0435\u043f\u0438\u043d\u0430 \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e / oil, canvas 75\u044590 2006"
+    },
+    {
+        "id": 605,
+        "image_id": 302,
+        "language_id": 2,
+        "description": "\u201cStudy Still Life with Blue Bottle and Foil\u201d Head by S.Pichahchi, 2 study year in I.E. Repin Academy. oil, canvas 75x90 2006"
+    },
+    {
+        "id": 606,
+        "image_id": 303,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u0412\u0435\u043d\u0435\u0440\u043e\u0439\u00bb \u0423\u0447\u0435\u0431\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0410.\u0410.\u041c\u044b\u043b\u044c\u043d\u0438\u043a\u043e\u0432, 3 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c. \u0418.\u0415.\u0420\u0435\u043f\u0438\u043d\u0430 \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e / oil, canvas 124 \u044556.5 2007"
+    },
+    {
+        "id": 607,
+        "image_id": 303,
+        "language_id": 2,
+        "description": "\u201cStill Life with Venus sculpture\u201d Study work, head by Professor A.A.Mylnikov, 3 study year in I.Repin Academy. oil, canvas 124 x 56.5 2007"
+    },
+    {
+        "id": 608,
+        "image_id": 304,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u0434\u0432\u0443\u043c\u044f \u0441\u0442\u0443\u043b\u044c\u044f\u043c\u0438 \u0438 \u0440\u0435\u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0438\u0435\u0439 \u0411\u043e\u0442\u0442\u0438\u0447\u0435\u043b\u043b\u0438\u00bb \u0423\u0447\u0435\u0431\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0410.\u0412.\u0412\u0435\u043b\u0438\u0447\u043a\u043e \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e / oil, canvas 100\u044575 2005"
+    },
+    {
+        "id": 609,
+        "image_id": 304,
+        "language_id": 2,
+        "description": "\u201cStill life with two chairs and a reproduction of Botticelli\u201d Study work, head by A.Velichko oil, canvas 100x75 2005"
+    },
+    {
+        "id": 610,
+        "image_id": 305,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u0438\u043d\u0438\u0439 \u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442\u00bb \u0423\u0447\u0435\u0431\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0410.\u0412.\u0412\u0435\u043b\u0438\u0447\u043a\u043e \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e / oil, canvas 60\u044580 2001"
+    },
+    {
+        "id": 611,
+        "image_id": 305,
+        "language_id": 2,
+        "description": "\u201cBlue Still Life\u201d Study work, head by A.Velichko oil, canvas 60x80 2001"
+    },
+    {
+        "id": 612,
+        "image_id": 306,
+        "language_id": 1,
+        "description": "\u00ab\u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442 \u0441 \u0447\u0451\u0440\u043d\u044b\u043c \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u043e\u043c \u041a.\u041c\u0430\u043b\u0435\u0432\u0438\u0447\u0430\u00bb \u0423\u0447\u0435\u0431\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0410.\u0412.\u0412\u0435\u043b\u0438\u0447\u043a\u043e \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e / oil, canvas 75\u044565 2001"
+    },
+    {
+        "id": 613,
+        "image_id": 306,
+        "language_id": 2,
+        "description": "\u201cStill Life with Black Square by K. Malevich\u201d Study work, head by A.Velichko oil, canvas 75x65 2001"
+    },
+    {
+        "id": 614,
+        "image_id": 307,
+        "language_id": 1,
+        "description": "\u00ab\u041c\u043e\u0437\u0430\u0438\u043a\u0430. \u041a\u043e\u043f\u0438\u044f \u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442\u0430 \u0413\u0440\u0435\u0447\u0435\u0441\u043a\u043e\u0439 \u043c\u043e\u0437\u0430\u0438\u043a\u0438\u00bb \u0423\u0447\u0435\u0431\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0410.\u041a.\u0411\u044b\u0441\u0442\u0440\u043e\u0432 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c \u0418.\u0420\u0435\u043f\u0438\u043d\u0430 \u0421\u043c\u0430\u043b\u044c\u0442\u0430, \u0431\u0435\u0442\u043e\u043d / Smalt, concrete 55\u044555 2008"
+    },
+    {
+        "id": 615,
+        "image_id": 307,
+        "language_id": 2,
+        "description": "\u201cMosaic. A copy of a fragment of the Greek mosaic\u201d Study work, head by professor A.Bystrov, in I.Repin Academy Smalt, concrete 55x55 2008"
+    },
+    {
+        "id": 616,
+        "image_id": 308,
+        "language_id": 1,
+        "description": "\u041a\u043e\u043f\u0438\u044f \u043a\u0430\u0440\u0442\u0438\u043d\u044b \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a\u0430 \u0420\u043e\u0433\u0438\u0440 \u0412\u0430\u043d \u0434\u0435\u0440 \u0412\u0435\u0439\u0434\u0435\u043d \u0432 \u0442\u0435\u0445\u043d\u0438\u043a\u0435 \u00ab\u0424\u0440\u0435\u0441\u043a\u0430\u00bb (\u041f\u043e \u0441\u044b\u0440\u043e\u0439 \u0448\u0442\u0443\u043a\u0430\u0442\u0443\u0440\u043a\u0435) \u0423\u0447\u0435\u0431\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430, 3 \u043a\u0443\u0440\u0441 \u0432 \u043c\u043e\u043d\u0443\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u043e\u0439 \u043c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u043e\u0439 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c. \u0418.\u0420\u0435\u043f\u0438\u043d\u0430 80\u044570 2007"
+    },
+    {
+        "id": 617,
+        "image_id": 308,
+        "language_id": 2,
+        "description": "A copy of painting by artist Rogier Van der Weyden in the \u201cFresco\u201d technique. Study work, 3 course in the monumental workshop of I.Repin Academy. 80x70 2007"
+    },
+    {
+        "id": 618,
+        "image_id": 309,
+        "language_id": 1,
+        "description": "\u00ab\u0414\u0432\u0435 \u043e\u0431\u043d\u0430\u0436\u0435\u043d\u043d\u044b\u0435 \u0444\u0438\u0433\u0443\u0440\u044b \u043d\u0430 \u0436\u0435\u043b\u0442\u043e\u043c\u00bb \u0423\u0447\u0435\u0431\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0410.\u041a.\u0411\u044b\u0441\u0442\u0440\u043e\u0432, 5 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c \u0418.\u0420\u0435\u043f\u0438\u043d\u0430 \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e / oil, canvas 180\u0445160 2009"
+    },
+    {
+        "id": 619,
+        "image_id": 309,
+        "language_id": 2,
+        "description": "\u201cTwo nude figures on yellow\u201d Study work, head by professor A.Bystrov, 5 study year in I.Repin Academy oil, canvas 180x160 2009"
+    },
+    {
+        "id": 620,
+        "image_id": 310,
+        "language_id": 1,
+        "description": "\u00ab\u0411\u0430\u043d\u044f\u00bb \u0423\u0447\u0435\u0431\u043d\u0430\u044f \u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0410.\u041a.\u0411\u044b\u0441\u0442\u0440\u043e\u0432, 5 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c \u0418.\u0420\u0435\u043f\u0438\u043d\u0430 \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e / oil, canvas 160x130 2009"
+    },
+    {
+        "id": 621,
+        "image_id": 310,
+        "language_id": 2,
+        "description": "\u201cBath\u201d Study work, head by professor A.Bystrov, 5 study year in I.Repin Academy oil, canvas 160x130 2009"
+    },
+    {
+        "id": 622,
+        "image_id": 311,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u0438\u0434\u044f\u0449\u0438\u0439 \u0432 \u043f\u043e\u043b\u0443\u043c\u0440\u0430\u043a\u0435\u00bb \u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0421.\u041f\u0438\u0447\u0430\u0445\u0447\u0438, 2 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c. \u0418.\u0415.\u0420\u0435\u043f\u0438\u043d\u0430 \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e / oil, canvas 70\u044580 2005"
+    },
+    {
+        "id": 623,
+        "image_id": 311,
+        "language_id": 2,
+        "description": "\u201cModel in the twilight\u201d Head by S.Pichahchi, 2 study year in I.Repin Academy. oil, canvas 70x80 2005"
+    },
+    {
+        "id": 624,
+        "image_id": 312,
+        "language_id": 1,
+        "description": "\u00ab\u041e\u0431\u043d\u0430\u0436\u0435\u043d\u043d\u0430\u044f \u043d\u0430 \u0431\u0435\u043b\u043e\u043c\u00bb \u0423\u0447\u0435\u0431\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0410.\u0410.\u041c\u044b\u043b\u044c\u043d\u0438\u043a\u043e\u0432, 3 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c. \u0418.\u0415.\u0420\u0435\u043f\u0438\u043d\u0430 \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e / oil, canvas 75\u044565 2006"
+    },
+    {
+        "id": 625,
+        "image_id": 312,
+        "language_id": 2,
+        "description": "\u201cNude model on a white background\u201d Study work, head by Professor A.A.Mylnikov, 3 study year in I.Repin Academy. oil, canvas 75x65 2006"
+    },
+    {
+        "id": 626,
+        "image_id": 313,
+        "language_id": 1,
+        "description": "\u00ab\u042f\u0440\u043c\u0430\u0440\u043a\u0430\u00bb \u0423\u0447\u0435\u0431\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0410.\u041a.\u0411\u044b\u0441\u0442\u0440\u043e\u0432, 5 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c \u0418.\u0420\u0435\u043f\u0438\u043d\u0430 \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e / oil, canvas 220\u0445170 2009"
+    },
+    {
+        "id": 627,
+        "image_id": 313,
+        "language_id": 2,
+        "description": "Study work, head by professor A.Bystrov, 5 study year in I.Repin Academy oil, canvas 220x170 2009"
+    },
+    {
+        "id": 628,
+        "image_id": 314,
+        "language_id": 1,
+        "description": "\u00ab\u041c\u043e\u0434\u0435\u043b\u044c, \u0441\u0438\u0434\u044f\u0449\u0430\u044f \u0441 \u043f\u0438\u0441\u044c\u043c\u043e\u043c\u00bb \u0423\u0447\u0435\u0431\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0410.\u0411\u044b\u0441\u0442\u0440\u043e\u0432, 4 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c \u0418.\u0420\u0435\u043f\u0438\u043d\u0430 \u0411\u0443\u043c\u0430\u0433\u0430, \u0447\u0451\u0440\u043d\u044b\u0439 \u0441\u043e\u0443\u0441 / paper, drawing charcoal 80\u044580 2008"
+    },
+    {
+        "id": 629,
+        "image_id": 314,
+        "language_id": 2,
+        "description": "\u201cModel with a letter\u201d Study work, head by professor A.Bystrov, 4 study year in I.Repin Academy paper, drawing charcoal 80x80 2008"
+    },
+    {
+        "id": 630,
+        "image_id": 315,
+        "language_id": 1,
+        "description": "\u00ab\u0423\u0447\u0435\u0431\u043d\u0430\u044f \u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0441\u0438\u0434\u044f\u0449\u0435\u0433\u043e \u043c\u0443\u0436\u0447\u0438\u043d\u044b\u00bb \u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0413.\u041c\u0430\u043d\u0430\u0448\u0435\u0440\u043e\u0432, 2 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c.\u0418.\u0420\u0435\u043f\u0438\u043d\u0430 \u0411\u0443\u043c\u0430\u0433\u0430, \u043a\u0430\u0440\u0430\u043d\u0434\u0430\u0448 / paper, pencil 60\u044580 2005"
+    },
+    {
+        "id": 631,
+        "image_id": 315,
+        "language_id": 2,
+        "description": "\u201cStudy drawing of sitting man\u201d Head by Professor G.Manasherov, 2 study year in I.Repin Academy paper, pencil 60x80 2005"
+    },
+    {
+        "id": 632,
+        "image_id": 316,
+        "language_id": 1,
+        "description": "\u00ab\u041e\u0431\u043d\u0430\u0436\u0435\u043d\u043d\u0430\u044f\u00bb \u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0413.\u041c\u0430\u043d\u0430\u0448\u0435\u0440\u043e\u0432, 2 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c.\u0418.\u0420\u0435\u043f\u0438\u043d\u0430 \u0411\u0443\u043c\u0430\u0433\u0430, \u0447\u0451\u0440\u043d\u044b\u0439 \u0441\u043e\u0443\u0441 / paper, drawing charcoal 60\u044580 2005"
+    },
+    {
+        "id": 633,
+        "image_id": 316,
+        "language_id": 2,
+        "description": "\u201cNude model\u201d Head by Professor G.Manasherov, 2 study year in I.Repin Academy paper, drawing charcoal 60x80 2005"
+    },
+    {
+        "id": 634,
+        "image_id": 317,
+        "language_id": 1,
+        "description": "\u0424\u0440\u0430\u0433\u043c\u0435\u043d\u0442 \u0440\u0438\u0441\u0443\u043d\u043a\u0430 \u0432 \u0442\u0435\u0445\u043d\u0438\u043a\u0435 \u00ab\u0433\u0440\u0438\u0437\u0430\u0439\u043b\u044c\u00bb \u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0413.\u041c\u0430\u043d\u0430\u0448\u0435\u0440\u043e\u0432, 2 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c.\u0418.\u0420\u0435\u043f\u0438\u043d\u0430 \u0411\u0443\u043c\u0430\u0433\u0430, \u043c\u0430\u0441\u043b\u043e / paper, oil 2006"
+    },
+    {
+        "id": 635,
+        "image_id": 317,
+        "language_id": 2,
+        "description": "Fragment of the drawing in \"Grisaille\" technique Head by Professor G.Manasherov, 2 study year in I.Repin Academy paper, oil 2006"
+    },
+    {
+        "id": 636,
+        "image_id": 318,
+        "language_id": 1,
+        "description": "\u0420\u0438\u0441\u0443\u043d\u043e\u043a \u043c\u0430\u0441\u043b\u043e\u043c \u0432 \u0442\u0435\u0445\u043d\u0438\u043a\u0435 \u00ab\u0433\u0440\u0438\u0437\u0430\u0439\u043b\u044c\u00bb \u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0413.\u041c\u0430\u043d\u0430\u0448\u0435\u0440\u043e\u0432, 2 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c.\u0418.\u0420\u0435\u043f\u0438\u043d\u0430 \u0411\u0443\u043c\u0430\u0433\u0430, \u043c\u0430\u0441\u043b\u043e / paper, oil 70\u044590 2006"
+    },
+    {
+        "id": 637,
+        "image_id": 318,
+        "language_id": 2,
+        "description": "Drawing in technique of \"Grisaille\" Head by Professor G.Manasherov, 2 study year in I.Repin Academy paper, oil 70x90 2006"
+    },
+    {
+        "id": 638,
+        "image_id": 319,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u043e\u0440\u0442\u0440\u0435\u0442 \u0436\u0435\u043d\u0449\u0438\u043d\u044b \u0432 \u043f\u043b\u0430\u0442\u043a\u0435\u00bb \u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u041d.\u0412.\u0426\u044b\u0446\u0438\u043d, 1 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c. \u0418.\u0415.\u0420\u0435\u043f\u0438\u043d\u0430 \u0411\u0443\u043c\u0430\u0433\u0430, \u0441\u0435\u043f\u0438\u044f / Paper, sepia 50\u044570 2003"
+    },
+    {
+        "id": 639,
+        "image_id": 319,
+        "language_id": 2,
+        "description": "\u201cPortrait of a woman in a scarf\u201d Head by N.Tsitsin, 1 study year in I.Repin Academy. Paper, sepia 50x70 2003"
+    },
+    {
+        "id": 640,
+        "image_id": 320,
+        "language_id": 1,
+        "description": "\u00ab\u0421\u0438\u0434\u044f\u0449\u0430\u044f \u043e\u0431\u043d\u0430\u0436\u0435\u043d\u043d\u0430\u044f\u00bb \u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0421.\u041f\u0438\u0447\u0430\u0445\u0447\u0438, 2 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c. \u0418.\u0415.\u0420\u0435\u043f\u0438\u043d\u0430 \u0425\u043e\u043b\u0441\u0442, \u043c\u0430\u0441\u043b\u043e / oil, canvas 75\u044580 2005"
+    },
+    {
+        "id": 641,
+        "image_id": 320,
+        "language_id": 2,
+        "description": "\u201cSitting nude model\u201d Head by S.Pichahchi, 2 study year in I.Repin Academy. oil, canvas 75x80 2005"
+    },
+    {
+        "id": 642,
+        "image_id": 321,
+        "language_id": 1,
+        "description": "\u00ab\u041e\u0434\u0435\u0442\u0430\u044f \u0436\u0435\u043d\u0441\u043a\u0430\u044f \u0444\u0438\u0433\u0443\u0440\u0430\u00bb \u0423\u0447\u0435\u0431\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 , \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0410.\u041a.\u0411\u044b\u0441\u0442\u0440\u043e\u0432, 5 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c \u0418.\u0420\u0435\u043f\u0438\u043d\u0430 \u0411\u0443\u043c\u0430\u0433\u0430 , \u0447\u0451\u0440\u043d\u044b\u0439 \u0441\u043e\u0443\u0441 / paper, drawing charcoal 100\u044580 2009"
+    },
+    {
+        "id": 643,
+        "image_id": 321,
+        "language_id": 2,
+        "description": "\u201cStudy work, head by professor A.Bystrov, 5 study year in I.Repin Academy \u0411\u0443\u043c\u0430\u0433\u0430 , \u0447\u0451\u0440\u043d\u044b\u0439 \u0441\u043e\u0443\u0441 / paper, drawing charcoal 100x80 2009"
+    },
+    {
+        "id": 644,
+        "image_id": 322,
+        "language_id": 1,
+        "description": "\u00ab\u041f\u043e\u0440\u0442\u0440\u0435\u0442 \u043f\u043e\u0436\u0438\u043b\u043e\u0439 \u0434\u0430\u043c\u044b\u00bb \u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u042e.\u0412.\u041a\u0430\u043b\u044e\u0442\u0430, 1 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c. \u0418.\u0415.\u0420\u0435\u043f\u0438\u043d\u0430 \u0425\u043e\u043b\u0441\u0442 , \u043c\u0430\u0441\u043b\u043e / oil, canvas 50\u044560 2004"
+    },
+    {
+        "id": 645,
+        "image_id": 322,
+        "language_id": 2,
+        "description": "\u201cPortrait of an Old Lady\u201d Head by Yu.Kalyuta, 1 study year in I.Repin Academy oil, canvas 50x60 2004"
+    },
+    {
+        "id": 646,
+        "image_id": 323,
+        "language_id": 1,
+        "description": "\u00ab\u041e\u0431\u043d\u0430\u0436\u0435\u043d\u043d\u0430\u044f \u043d\u0430 \u043a\u0440\u0430\u0441\u043d\u043e\u043c\u00bb \u0423\u0447\u0435\u0431\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 , \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u0410.\u041a.\u0411\u044b\u0441\u0442\u0440\u043e\u0432, 4 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c \u0418.\u0420\u0435\u043f\u0438\u043d\u0430 \u0411\u0443\u043c\u0430\u0433\u0430, \u0441\u0435\u043f\u0438\u044f,\u0441\u0430\u043d\u0433\u0438\u043d\u0430 / Paper, sepia,sanguine 120\u0445110 2008"
+    },
+    {
+        "id": 647,
+        "image_id": 323,
+        "language_id": 2,
+        "description": "\u201cModel on a red background\u201d Study work, head by professor A.Bystrov, 4 study year in I.Repin Academy Paper, sepia,sanguine 120x110 2008"
+    },
+    {
+        "id": 648,
+        "image_id": 324,
+        "language_id": 1,
+        "description": "\u00ab\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u041d\u0430\u0442\u044e\u0440\u043c\u043e\u0440\u0442\u00bb \u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u042e.\u0412.\u041a\u0430\u043b\u044e\u0442\u0430, 1 \u043a\u0443\u0440\u0441 \u0432 \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u043c. \u0418.\u0415.\u0420\u0435\u043f\u0438\u043d\u0430 \u0425\u043e\u043b\u0441\u0442 , \u043c\u0430\u0441\u043b\u043e / oil, canvas 75\u044575.5 2004"
+    },
+    {
+        "id": 649,
+        "image_id": 324,
+        "language_id": 2,
+        "description": "\u201cStudy Still life\u201d Head by Yu.V. Kalyuta, 1 study year in I.Repin Academy. oil, canvas 75x75.5 2004"
     }
 ]
