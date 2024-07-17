@@ -9,7 +9,6 @@ from app.db.database import get_db
 from app.crud.image import image_crud
 from app.schemas.artwork import Artwork
 from app.schemas.description import SimpleDescription
-from app.service.image_position import ImagePositionEnum
 
 router = APIRouter(prefix="/artwork", tags=["artwork"])
 
@@ -33,16 +32,14 @@ async def get_artwork(artwork_id: int, db: Session = Depends(get_db)):
     return Artwork(
         id=image.id,
         name=image.name,
-        position=image.position,
         descriptions=mapped_descriptions
     )
 
 
 @router.get("/", response_model=List[Artwork])
-async def get_all_artworks(position: ImagePositionEnum = Query(None, description="Filter by image position"),
-                           category_id: int = Query(None, description="Filter by category id"),
+async def get_all_artworks(category_id: int = Query(None, description="Filter by category id"),
                            db: Session = Depends(get_db)):
-    ids = image_crud.get_all_artwork_image_ids(db=db, position=position, category_id=category_id)
+    ids = image_crud.get_all_artwork_image_ids(db=db, category_id=category_id)
 
     artwork_schemas = [
         await get_artwork(artwork_id=artwork_id, db=db) for artwork_id in ids

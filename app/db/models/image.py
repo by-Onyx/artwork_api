@@ -2,7 +2,6 @@ from sqlalchemy import Column, Integer, VARCHAR, ForeignKey, Enum
 from sqlalchemy.orm import validates
 
 from app.db.database import Base
-from app.service.image_position import ImagePositionEnum
 
 
 class Image(Base):
@@ -10,9 +9,8 @@ class Image(Base):
 
     id = Column(Integer, nullable=False, unique=True, primary_key=True, autoincrement=True)
     category_id = Column(Integer, ForeignKey('category.id', ondelete='CASCADE'), nullable=False)
-    position = Column(Enum(ImagePositionEnum), nullable=False, default='Horizontal')
     creation_year = Column(Integer, nullable=False, default=3000)
-    name = Column(VARCHAR(100), nullable=False)
+    name = Column(VARCHAR(100), nullable=False, unique=True)
 
     @validates('creation_year')
     def validate_year(self, key, value):
