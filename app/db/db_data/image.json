@@ -1752,22 +1752,10 @@
         "name": "IMG_5123.jpg"
     },
     {
-        "id": 295,
-        "category_id": 7,
-        "creation_year": 2017,
-        "name": "IMG_5094.JPG"
-    },
-    {
         "id": 296,
         "category_id": 7,
         "creation_year": 2017,
         "name": "IMG_5089.JPG"
-    },
-    {
-        "id": 297,
-        "category_id": 7,
-        "creation_year": 2017,
-        "name": "IMG_5114.JPG"
     },
     {
         "id": 298,
@@ -1810,12 +1798,6 @@
         "category_id": 5,
         "creation_year": 2005,
         "name": "22.2005.jpg"
-    },
-    {
-        "id": 305,
-        "category_id": 5,
-        "creation_year": 2001,
-        "name": "3.2001.jpg"
     },
     {
         "id": 306,
@@ -2002,6 +1984,24 @@
         "category_id": 4,
         "creation_year": 2001,
         "name": "3.2001-1.JPG"
+    },
+    {
+        "id": 305,
+        "category_id": 5,
+        "creation_year": 2001,
+        "name": "3.2001.JPG"
+    },
+    {
+        "id": 295,
+        "category_id": 7,
+        "creation_year": 2017,
+        "name": "IMG_5094.jpg"
+    },
+    {
+        "id": 297,
+        "category_id": 7,
+        "creation_year": 2017,
+        "name": "IMG_5114.jpg"
     },
     {
         "id": 341,
